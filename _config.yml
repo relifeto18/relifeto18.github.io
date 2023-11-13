@@ -1,6 +1,6 @@
 # Site settings
 title: Yanxi Lin
-description: 'Personal Website'
+description: 'M.S. Student in Robotics at University of Michigan '
 url: 'https://relifeto18.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,7 +9,7 @@ baseurl: ''
 
 author:
   name: 'Yanxi Lin'
-  email: lyx010318@gmail.com
+  email: shyyl@umich.edu
   github_username:  relifeto18
   linkedin_username:  yanxi-lin
 
