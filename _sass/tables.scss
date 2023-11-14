@@ -1,5 +1,6 @@
 table {
 	margin-bottom: 1.3em;
+	border-spacing: 0 5px; 
 	thead {
 		font-weight: bold;
 
@@ -13,11 +14,9 @@ table {
 	}
 
 	tr {
-		padding: 5px 0px;
-
 		td {
 			background: #eee0;
-			padding: 0px 5px;
+			padding: 5px 0px;
 			vertical-align: middle;
 		}
 	}
