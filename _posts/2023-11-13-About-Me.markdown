@@ -20,7 +20,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
         <img src="{{ site.baseurl }}/images/Data/UM.png" width="65" height="65"/>
       </td>
       <td><strong> University of Michigan - Ann Arbor </strong></td>
-      <td> September 2022 – May 2024 </td>
+      <td> &emsp; September 2022 – May 2024 </td>
     </tr>
     <tr>
       <td colspan="2"> Master of Science in Robotics </td>
@@ -30,7 +30,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
         <img src="{{ site.baseurl }}/images/Data/UNNC.png" width="65" height="65"/>
       </td>
       <td style="padding:20px 5px 0px 5px;"><strong> University of Nottingham - Ningbo, China </strong></td>
-      <td style="padding:20px 5px 0px 5px;"> September 2018 – July 2022 </td>
+      <td style="padding:20px 5px 0px 5px;"> &emsp; September 2018 – July 2022 </td>
     </tr>
     <tr>
       <td colspan="2"> Bachelor of Engineering in Electrical and Electronic Engineering </td>
