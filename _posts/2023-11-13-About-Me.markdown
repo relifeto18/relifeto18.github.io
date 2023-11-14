@@ -17,7 +17,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
   <tbody>
     <tr>
       <td>
-        <img src="{{ site.baseurl }}/images/Data/UM.png" width="50">
+        <img src="{{ site.baseurl }}/images/Data/UM.png" width="60">
       </td>
       <td>
         <p><strong> University of Michigan - Ann Arbor </strong> &emsp; September 2022 – May 2024 </p>
@@ -27,7 +27,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
     <tr>
       <td>
         <div style="display: flex; align-items: center;">
-          <img src="{{ site.baseurl }}/images/Data/UNNC.png" width="50">
+          <img src="{{ site.baseurl }}/images/Data/UNNC.png" width="60">
         </div>
       </td>
       <td>
