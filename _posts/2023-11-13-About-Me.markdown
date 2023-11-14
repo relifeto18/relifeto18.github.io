@@ -29,8 +29,8 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
       <td rowspan="2" style="padding:20px 20px 0px 0px;">
         <img src="{{ site.baseurl }}/images/Data/UNNC.png" width="50" height="50"/>
       </td>
-      <td style="padding:20px 20px 0px 0px;"><strong> University of Nottingham - Ningbo, China </strong></td>
-      <td style="padding:20px 20px 0px 0px;"> &emsp; September 2018 – July 2022 </td>
+      <td style="padding:20px 12px 0px 0px;"><strong> University of Nottingham - Ningbo, China </strong></td>
+      <td style="padding:20px 12px 0px 0px;"> &emsp; September 2018 – July 2022 </td>
     </tr>
     <tr>
       <td colspan="2"> Bachelor of Engineering in Electrical and Electronic Engineering </td>
