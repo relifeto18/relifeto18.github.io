@@ -26,11 +26,11 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
       <td colspan="2"> Master of Science in Robotics </td>
     </tr>
     <tr>
-      <td rowspan="2" style="padding:20px 5px 0px 0px;">
+      <td rowspan="2" style="padding:20px 12px 0px 0px;">
         <img src="{{ site.baseurl }}/images/Data/UNNC.png" width="65" height="65"/>
       </td>
-      <td style="padding:20px 5px 0px 0px;"><strong> University of Nottingham - Ningbo, China </strong></td>
-      <td style="padding:20px 5px 0px 0px;"> &emsp; September 2018 – July 2022 </td>
+      <td style="padding:20px 12px 0px 0px;"><strong> University of Nottingham - Ningbo, China </strong></td>
+      <td style="padding:20px 12px 0px 0px;"> &emsp; September 2018 – July 2022 </td>
     </tr>
     <tr>
       <td colspan="2"> Bachelor of Engineering in Electrical and Electronic Engineering </td>
