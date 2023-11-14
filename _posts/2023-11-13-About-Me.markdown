@@ -1,5 +1,5 @@
 ---
 title:  "About Me"
-date:   "`r Sys.Date()`"
+date:   '`r format(Sys.Date(), "%Y-%m-%d %H:%M")`'
 ---
 Hello World!
