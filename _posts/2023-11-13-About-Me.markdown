@@ -40,7 +40,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
 
 
 ### Award
-<table class="award">
+<table class="awd">
   <tbody>
     <tr>
       <td>
