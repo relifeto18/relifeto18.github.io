@@ -13,7 +13,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
 
 ### Education
 
-<table id="edu">
+<table class="edu">
   <tbody>
     <tr>
       <td rowspan="2">
@@ -40,7 +40,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
 
 
 ### Award
-<table id="award">
+<table class="award">
   <tbody>
     <tr>
       <td>
