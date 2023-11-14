@@ -15,26 +15,26 @@ My interest is piqued by the perception, planning, and control aspects of roboti
   <tbody>
     <tr>
       <td>
-        <img scr="images/Data/UM.png">
+        <img scr="/images/Data/UM.png">
       </td>
       <td>
-        <b> University of Michigan - Ann Arbor </b>
-        <br> Master of Science in Robotics, September 2022 – May 2024
+        <b> University of Michigan - Ann Arbor </b> September 2022 – May 2024
+        <br> Master of Science in Robotics
       </td>
     </tr>
     <tr>
       <td>
-        <img scr="images/Data/UM.png">
+        <img scr="/images/Data/UNNC.png">
       </td>
       <td>
-        <b> University of Nottingham - Ningbo, China </b>
-        <br> Bachelor of Engineering in Electrical and Electronic Engineering (First Class Degree), September 2018 – July 2022
+        <b> University of Nottingham - Ningbo, China </b> September 2018 – July 2022
+        <br> Bachelor of Engineering in Electrical and Electronic Engineering 
       </td>
     </tr>
   </tbody>
 </table>
 
-### AWARDS
+### Award
 China National Scholarship October 2021
 17th China Challenge Cup – Third Prize (Zhejiang Provincial Level Award) May 2021
 The Interdisciplinary Contest in Modeling (ICM) – Meritorious Winner April 2021
