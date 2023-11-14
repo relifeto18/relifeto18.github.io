@@ -22,7 +22,7 @@ My interest is piqued by the perception, planning, and control aspects of roboti
   <tbody>
     <tr>
       <td>
-        <img scr="../images/Data/UM.png">
+        <img src="../images/Data/UM.png">
       </td>
       <td>
         <b> University of Michigan - Ann Arbor </b> September 2022 – May 2024
@@ -31,7 +31,7 @@ My interest is piqued by the perception, planning, and control aspects of roboti
     </tr>
     <tr>
       <td>
-        <img scr="../images/Data/UNNC.png">
+        <img src="../images/Data/UNNC.png">
       </td>
       <td>
         <b> University of Nottingham - Ningbo, China </b> September 2018 – July 2022
