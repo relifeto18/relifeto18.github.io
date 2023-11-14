@@ -15,7 +15,7 @@ My interest is piqued by the perception, planning, and control aspects of roboti
   <tbody>
     <tr>
       <td>
-        <img scr="/images/Data/UM.png">
+        <img scr="../images/Data/UM.png">
       </td>
       <td>
         <b> University of Michigan - Ann Arbor </b> September 2022 – May 2024
@@ -24,7 +24,7 @@ My interest is piqued by the perception, planning, and control aspects of roboti
     </tr>
     <tr>
       <td>
-        <img scr="/images/Data/UNNC.png">
+        <img scr="../images/Data/UNNC.png">
       </td>
       <td>
         <b> University of Nottingham - Ningbo, China </b> September 2018 – July 2022
@@ -35,9 +35,34 @@ My interest is piqued by the perception, planning, and control aspects of roboti
 </table>
 
 ### Award
-China National Scholarship October 2021
-17th China Challenge Cup – Third Prize (Zhejiang Provincial Level Award) May 2021
-The Interdisciplinary Contest in Modeling (ICM) – Meritorious Winner April 2021
+<table>
+  <tbody>
+    <tr>
+      <td>
+        China National Scholarship
+      </td>
+      <td>
+        October 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+        17th China Challenge Cup – Third Prize (Zhejiang Province)
+      </td>
+      <td>
+        May 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The Interdisciplinary Contest in Modeling (ICM) – Meritorious Winner
+      </td>
+      <td>
+        April 2021
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 [Robotics]: https://robotics.umich.edu/
 [Umich]: https://umich.edu/
