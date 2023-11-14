@@ -8,7 +8,7 @@ Currently, I'm working on the Human-Robot Handover project, especially focusing 
 
 Before this, I graduated with a First Class Bachelor's degree in Electrical and Electronic Engineering at University of Nottingham, Ningbo, China ([UNNC][UNNC]).
 
-My interest is piqued by the **perception, planning, and control** aspects of robotics. In particular, I am drawn to the arenas of autonomous driving and mobile robots. Aside from my academic pursuits, I am an avid photographer (check my Gallery!) and anime enthusiast. 
+My interest is piqued by the **perception, planning, and control** aspects of robotics. In particular, I am drawn to the arenas of **autonomous driving** and **mobile robots**. Aside from my academic pursuits, I am an avid photographer (check my Gallery!) and anime enthusiast. 
 
 
 ### Education
@@ -20,7 +20,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
         <img src="{{ site.baseurl }}/images/Data/UM.png" width="50" height="50">
       </td>
       <td>
-        <b> University of Michigan - Ann Arbor </b> &emsp; September 2022 – May 2024
+        <strong> University of Michigan - Ann Arbor </strong> &emsp; September 2022 – May 2024
         <br> Master of Science in Robotics
       </td>
     </tr>
@@ -29,7 +29,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
         <img src="{{ site.baseurl }}/images/Data/UNNC.png" width="50" height="50">
       </td>
       <td>
-        <b> University of Nottingham - Ningbo, China </b> &emsp; September 2018 – July 2022
+        <strong> University of Nottingham - Ningbo, China </strong> &emsp; September 2018 – July 2022
         <br> Bachelor of Engineering in Electrical and Electronic Engineering 
       </td>
     </tr>
