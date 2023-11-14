@@ -13,11 +13,8 @@ table {
 	}
 
 	tr {
-		&:nth-child(even) td {
-			background: #eee0;
-		}
-
 		td {
+			background: #eee0;
 			padding: 0px;
 		}
 	}
