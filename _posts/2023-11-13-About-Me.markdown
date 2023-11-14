@@ -2,7 +2,9 @@
 title:  "About Me"
 date:   2023-11-13 22:15:31
 ---
-I am pursuing my Master's degree in [Robotics Department][Robotics] at [University of Michigan][Umich]. Currently, I'm working on the Human-Robot Handover Project, especially focusing on the Motion Planning direction using [Stretch 2][Stretch] under the guidance of Professor [Christoforos Mavrogiannis][Chris] in the [Fluent Robotics Lab][Lab].
+I am pursuing my Master's degree in [Robotics Department][Robotics] at [University of Michigan][Umich]. 
+
+Currently, I'm working on the Human-Robot Handover project, especially focusing on the Motion Planning direction using [Stretch 2][Stretch] under the guidance of Professor [Christoforos Mavrogiannis][Chris] in the [Fluent Robotics Lab][Lab].
 
 Before this, I graduated with a First Class Bachelor's degree in Electrical and Electronic Engineering at University of Nottingham, Ningbo, China ([UNNC][UNNC]).
 
