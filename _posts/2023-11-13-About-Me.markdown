@@ -55,7 +55,6 @@ X. Tang, **Y. Lin**, and M. He
     </tr>
   </tbody>
 </table>
-
 **Patent: Electromagnetic Heating Device and Control Method**  \
 CN113329535B
 <table class="pub">
