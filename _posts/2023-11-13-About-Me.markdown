@@ -48,7 +48,7 @@ X. Tang, **Y. Lin**, and M. He
 <table class="pub">
   <tbody>
     <tr>
-      <img src="{{ site.baseurl }}/images/Data/paper.png"/>
+      <td><img src="{{ site.baseurl }}/images/Data/paper.png" height="250"/></td>
       <td>
         We develop a model based on some advanced algorithms to excavate artists and genres' significant evolutionary and revolutionary trends.
         <br><strong> Keywords </strong>: Network model, Similarity, PCA, Hierarchical Clustering, Evolution
@@ -63,7 +63,7 @@ CN113329535B
 <table class="pub">
   <tbody>
     <tr>
-      <img src="{{ site.baseurl }}/images/Data/patent.png"/>
+      <td><img src="{{ site.baseurl }}/images/Data/patent.png" height="250"/></td>
       <td>
         The invention provides an electromagnetic heating device and a control method.
         <br> The method of heat flow is adopted, and the effect of non-contact intelligent stirring is realized.
