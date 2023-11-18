@@ -39,9 +39,10 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
 </table>
 
 
+
 ### Publication
-**A Model for Music Influence, Similarity and Evolution Analysis Based on Directed Network** [PDF][PDF]
-*ICCBD 2021: 2021 4th International Conference on Computing and Big Data*, November 2021
+**A Model for Music Influence, Similarity and Evolution Analysis Based on Directed Network** [\[PDF\]][PDF] \
+*ICCBD 2021: 2021 4th International Conference on Computing and Big Data*, November 2021 \
 X. Tang, **Y. Lin**, and M. He
 
 <table class="pub">
@@ -49,15 +50,14 @@ X. Tang, **Y. Lin**, and M. He
     <tr>
       <img src="{{ site.baseurl }}/images/Data/paper.png"/>
       <td>
-        <p> We develop a model based on some advanced algorithms to excavate artists and 
-            genres' significant evolutionary and revolutionary trends. </p>
-        <p><strong> Keywords </strong>: Network model, Similarity, PCA, Hierarchical Clustering, Evolution </p>
+        We develop a model based on some advanced algorithms to excavate artists and genres' significant evolutionary and revolutionary trends.
+        <br><strong> Keywords </strong>: Network model, Similarity, PCA, Hierarchical Clustering, Evolution
       </td>
     </tr>
   </tbody>
 </table>
 
-**Electromagnetic heating device and control method** 
+**Electromagnetic heating device and control method**  \
 CN113329535B
 
 <table class="pub">
@@ -65,8 +65,8 @@ CN113329535B
     <tr>
       <img src="{{ site.baseurl }}/images/Data/patent.png"/>
       <td>
-        <p> The invention provides an electromagnetic heating device and a control method. </p>
-        <p> The method of heat flow is adopted, and the effect of non-contact intelligent stirring is realized. </p>
+        The invention provides an electromagnetic heating device and a control method.
+        <br> The method of heat flow is adopted, and the effect of non-contact intelligent stirring is realized.
       </td>
     </tr>
   </tbody>
