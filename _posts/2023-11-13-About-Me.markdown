@@ -44,7 +44,6 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
 **A Model for Music Influence, Similarity and Evolution Analysis Based on Directed Network** [\[PDF\]][PDF] \
 *ICCBD 2021: 2021 4th International Conference on Computing and Big Data*, November 2021 \
 X. Tang, **Y. Lin**, and M. He
-
 <table class="pub">
   <tbody>
     <tr>
@@ -57,9 +56,8 @@ X. Tang, **Y. Lin**, and M. He
   </tbody>
 </table>
 
-**Patent: Electromagnetic heating device and control method**  \
+**Patent: Electromagnetic Heating Device and Control Method**  \
 CN113329535B
-
 <table class="pub">
   <tbody>
     <tr>
