@@ -68,4 +68,12 @@ exclude: 'yes'
     slides[slideIndex-1].style.display = "block";
     dots[slideIndex-1].className += " active";
     captionText.innerHTML = dots[slideIndex-1].alt;
+    centerScroll();
+  }
+
+  function centerScroll() {
+    let container = document.querySelector('.scroll-container');
+    let selected = document.querySelector('.active');
+    
+    container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
   }
