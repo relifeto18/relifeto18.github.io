@@ -5,6 +5,7 @@
   /* Position the image container (needed to position the left and right arrows) */
   .container {
     position: relative;
+    margin: 0;
   }
   
   /* Hide the images by default */
@@ -59,7 +60,7 @@
   .caption-container {
     text-align: center;
     background-color: #222;
-    padding: 2px 16px;
+    padding: 20px 16px;
     color: white;
   }
   
@@ -91,13 +92,14 @@
 
   div.scroll-container {
     background-color: white;
-    overflow: auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
     white-space: nowrap;
     padding: 1px;
   }
   
   div.scroll-container img {
-    padding: 1px;
+    padding: 0px;
   }
 
   .caption {
