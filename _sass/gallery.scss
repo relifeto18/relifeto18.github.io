@@ -9,7 +9,11 @@
   }
   
   /* Hide the images by default */
-  .mySlides {
+  .mySlides1 {
+    display: none;
+  }
+
+  .mySlides2 {
     display: none;
   }
   
@@ -81,12 +85,21 @@
   }
   
   /* Add a transparency effect for thumnbail images */
-  .demo {
+  .demo1 {
+    opacity: 0.6;
+  }
+
+  .demo2 {
     opacity: 0.6;
   }
   
   .active,
-  .demo:hover {
+  .demo1:hover {
+    opacity: 1;
+  }
+
+  .active,
+  .demo2:hover {
     opacity: 1;
   }
 
@@ -112,7 +125,7 @@
     position: relative;
   }
   
-  .demo cursor {
+  .demo1 cursor {
       position: absolute;
       top: 50%;
       left: 50%;
@@ -120,3 +133,12 @@
       max-width: 100%;
       max-height: 100%;
   }
+
+  .demo2 cursor {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 100%;
+}
