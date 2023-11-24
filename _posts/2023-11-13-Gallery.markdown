@@ -3,18 +3,75 @@ title:  "Gallery"
 date:   2023-11-13 20:18:38
 ---
 
+### Transportation
+
 <!-- Container for the image gallery -->
 <div class="container">
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 2</div>
-      <img src="{{ site.baseurl }}/images/gallery/train station.png" style="width:100%">
+    <div class="numbertext">1 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 2</div>
-      <img src="{{ site.baseurl }}/images/gallery/abandoned train.png" style="width:100%">
+    <div class="numbertext">2 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/UTA 1007.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/UTA 1040.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/UTA FrontRunner 104.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/BNSF 4021.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/UP 5535.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">7 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/DM 5732.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">8 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/IDTX 4627.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">9 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/SS3 8029.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">10 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/HXD 1C3098.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">11 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/HXD 1D0342.png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">12 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/N510DN (A350).png" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">13 / 13</div>
+      <img src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:100%">
   </div>
 
 
@@ -24,16 +81,22 @@ date:   2023-11-13 20:18:38
 
   <!-- Image text -->
   <div class="caption-container">
-    <p id="caption"></p>
+    <p id="caption" class="caption"></p>
   </div>
 
   <!-- Thumbnail images -->
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/train station.png" style="width:100%" onclick="currentSlide(1)" alt="Train Station">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/abandoned train.png" style="width:100%" onclick="currentSlide(2)" alt="Abandoned Train">
-    </div>
+  <div class="scroll-container">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:20%" onclick="currentSlide(1)" alt="SLC Station">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1007.png" style="width:20%" onclick="currentSlide(2)" alt="UTA 1007">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1040.png" style="width:20%" onclick="currentSlide(3)" alt="UTA 1040">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/UTA FrontRunner 104.png" style="width:20%" onclick="currentSlide(4)" alt="UTA FrontRunner 104">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/BNSF 4021.png" style="width:20%" onclick="currentSlide(5)" alt="BNSF 4021">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/UP 5535.png" style="width:20%" onclick="currentSlide(6)" alt="UP 5535">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/DM 5732.png" style="width:20%" onclick="currentSlide(7)" alt="DM 5732">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/IDTX 4627.png" style="width:20%" onclick="currentSlide(8)" alt="IDTX 4627">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/SS3 8029.png" style="width:20%" onclick="currentSlide(9)" alt="SS3 8029">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1C3098.png" style="width:20%" onclick="currentSlide(10)" alt="HXD 1C3098">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1D0342.png" style="width:20%" onclick="currentSlide(11)" alt="HXD 1D0342">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/N510DN (A350).png" style="width:20%" onclick="currentSlide(12)" alt="N510DN (A350)">
+    <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:20%" onclick="currentSlide(13)" alt="B-6361 (A321)">
   </div>
-</div>

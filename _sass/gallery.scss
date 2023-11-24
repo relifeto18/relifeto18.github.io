@@ -63,6 +63,10 @@
     color: white;
   }
   
+  .row {
+    padding: 2px 16px;
+  }
+
   .row:after {
     content: "";
     display: table;
@@ -83,4 +87,20 @@
   .active,
   .demo:hover {
     opacity: 1;
+  }
+
+  div.scroll-container {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 1px;
+  }
+  
+  div.scroll-container img {
+    padding: 1px;
+  }
+
+  .caption {
+    margin-bottom: 0em;
+	line-height: 0em;
   }
