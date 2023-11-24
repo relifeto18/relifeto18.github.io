@@ -106,3 +106,17 @@
     margin-bottom: 0em;
 	line-height: 0em;
   }
+
+  .scroll-image {
+    display: inline-block;
+    position: relative;
+  }
+  
+  .demo cursor {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      max-width: 100%;
+      max-height: 100%;
+  }
