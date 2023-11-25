@@ -39,13 +39,19 @@ exclude: 'yes'
 
   })
 
+  let slideIndex = 1;
   let slideIndex1 = 1;
   let slideIndex2 = 1;
 
+  showSlides(slideIndex);
   showSlides1(slideIndex1);
   showSlides2(slideIndex2);
 
   // Next/previous controls
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
   function plusSlides1(n) {
     showSlides1(slideIndex1 += n);
   }
@@ -55,12 +61,36 @@ exclude: 'yes'
   }
   
   // Thumbnail image controls
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
   function currentSlide1(n) {
     showSlides1(slideIndex1 = n);
   }
   
   function currentSlide2(n) {
     showSlides2(slideIndex2 = n);
+  }
+
+  function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("demo");
+    let captionText = document.getElementById("caption");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+    captionText.innerHTML = dots[slideIndex-1].alt;
+
+    centerScroll1();
   }
 
   function showSlides1(n) {
@@ -101,6 +131,13 @@ exclude: 'yes'
     captionText.innerHTML = dots[slideIndex2-1].alt;
 
     centerScroll2();
+  }
+
+  function centerScroll() {
+    let container = document.querySelector('.scroll-container');
+    let selected = document.querySelector('.active');
+    
+    container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
   }
 
   function centerScroll1() {
