@@ -67,16 +67,18 @@ exclude: 'yes'
     let i;
     let slides = document.getElementsByClassName("mySlides1");
     let dots = document.getElementsByClassName("demo1");
+    let captionText = document.getElementById("caption1");
     if (n > slides.length) {slideIndex1 = 1}
     if (n < 1) {slideIndex1 = slides.length}
     for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
     for (i = 0; i < dots.length; i++) {
-      dots[i].classList.remove("active1");
+      dots[i].className = dots[i].className.replace(" active1", "");
     }
     slides[slideIndex1-1].style.display = "block";
-    dots[slideIndex1-1].classList.add("active1");
+    dots[slideIndex1-1].className += " active1";
+    captionText.innerHTML = dots[slideIndex1-1].alt;
 
     centerScroll1();
   }
@@ -85,16 +87,18 @@ exclude: 'yes'
     let i;
     let slides = document.getElementsByClassName("mySlides2");
     let dots = document.getElementsByClassName("demo2");
+    let captionText = document.getElementById("caption2");
     if (n > slides.length) {slideIndex2 = 1}
     if (n < 1) {slideIndex2 = slides.length}
     for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
     for (i = 0; i < dots.length; i++) {
-      dots[i].classList.remove("active2");
+      dots[i].className = dots[i].className.replace(" active2", "");
     }
     slides[slideIndex2-1].style.display = "block";
-    dots[slideIndex2-1].classList.add("active2");
+    dots[slideIndex2-1].className += " active2";
+    captionText.innerHTML = dots[slideIndex2-1].alt;
 
     centerScroll2();
   }
