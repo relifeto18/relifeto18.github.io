@@ -188,11 +188,9 @@ date:   2023-11-13 20:18:38
 
 
 
-### Transportation
+<!-- ### Transportation
 
-<!-- Container for the image gallery -->
 <div class="container2">
-  <!-- Full-width images with number text -->
   <div class="mySlides2">
     <div class="numbertext">1 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:100%">
@@ -246,16 +244,13 @@ date:   2023-11-13 20:18:38
       <img src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:100%">
   </div>
 
-  <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides2(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides2(1)">&#10095;</a>
 
-  <!-- Image text -->
   <div class="caption-container2">
     <p id="caption2" class="caption2"></p>
   </div>
 
-  <!-- Thumbnail images -->
   <div class="scroll-container2">
     <div class="scroll-image2">
       <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:20%" onclick="currentSlide2(1)" alt="SLC Station">
@@ -273,4 +268,4 @@ date:   2023-11-13 20:18:38
       <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:20%" onclick="currentSlide2(13)" alt="B-6361 (A321)">
     <div>
   </div>
-</div>
+</div> -->
