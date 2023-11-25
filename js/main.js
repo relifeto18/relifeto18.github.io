@@ -90,7 +90,7 @@ exclude: 'yes'
     dots[slideIndex-1].className += " active";
     captionText.innerHTML = dots[slideIndex-1].alt;
 
-    centerScroll1();
+    centerScroll();
   }
 
   function showSlides1(n) {
