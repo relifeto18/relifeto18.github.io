@@ -57,6 +57,9 @@
 .wrok {
 	width: 100%;
 	margin-bottom: 1.3em;
+	tr {
+		height: 20px;
+	}
 	td {
 		background: #eee0;
 		padding: 2px 15px 2px 0px;
@@ -70,8 +73,4 @@
 
 .work .right {
 	text-align: right;
-}
-
-.wrok .italic {
-	font-style: italic;
 }
