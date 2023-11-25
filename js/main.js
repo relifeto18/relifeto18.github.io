@@ -42,10 +42,12 @@ exclude: 'yes'
   let slideIndex = 1;
   let slideIndex1 = 1;
   let slideIndex2 = 1;
+  let slideIndex3 = 1;
 
   showSlides(slideIndex);
   showSlides1(slideIndex1);
   showSlides2(slideIndex2);
+  showSlides2(slideIndex3);
 
   // Next/previous controls
   function plusSlides(n) {
@@ -59,6 +61,10 @@ exclude: 'yes'
   function plusSlides2(n) {
     showSlides2(slideIndex2 += n);
   }
+
+  function plusSlides3(n) {
+    showSlides3(slideIndex3 += n);
+  }
   
   // Thumbnail image controls
   function currentSlide(n) {
@@ -71,6 +77,10 @@ exclude: 'yes'
   
   function currentSlide2(n) {
     showSlides2(slideIndex2 = n);
+  }
+
+  function currentSlide3(n) {
+    showSlides3(slideIndex3 = n);
   }
 
   function showSlides(n) {
@@ -133,6 +143,26 @@ exclude: 'yes'
     centerScroll2();
   }
 
+  function showSlides3(n) {
+    let i;
+    let slides = document.getElementsByClassName("mySlides3");
+    let dots = document.getElementsByClassName("demo3");
+    let captionText = document.getElementById("caption3");
+    if (n > slides.length) {slideIndex3 = 1}
+    if (n < 1) {slideIndex3 = slides.length}
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active3", "");
+    }
+    slides[slideIndex3-1].style.display = "block";
+    dots[slideIndex3-1].className += " active3";
+    captionText.innerHTML = dots[slideIndex3-1].alt;
+
+    centerScroll3();
+  }
+
   function centerScroll() {
     let container = document.querySelector('.scroll-container');
     let selected = document.querySelector('.active');
@@ -150,6 +180,13 @@ exclude: 'yes'
   function centerScroll2() {
     let container = document.querySelector('.scroll-container2');
     let selected = document.querySelector('.active2');
+    
+    container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
+  }
+
+  function centerScroll3() {
+    let container = document.querySelector('.scroll-container3');
+    let selected = document.querySelector('.active3');
     
     container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
   }
