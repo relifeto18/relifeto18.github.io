@@ -73,10 +73,10 @@ exclude: 'yes'
       slides[i].style.display = "none";
     }
     for (i = 0; i < dots.length; i++) {
-      dots[i].classList.remove("active");
+      dots[i].classList.remove("active1");
     }
     slides[slideIndex1-1].style.display = "block";
-    dots[slideIndex1-1].classList.add("active");
+    dots[slideIndex1-1].classList.add("active1");
 
     centerScroll1();
   }
@@ -91,24 +91,24 @@ exclude: 'yes'
       slides[i].style.display = "none";
     }
     for (i = 0; i < dots.length; i++) {
-      dots[i].classList.remove("active");
+      dots[i].classList.remove("active2");
     }
     slides[slideIndex2-1].style.display = "block";
-    dots[slideIndex2-1].classList.add("active");
+    dots[slideIndex2-1].classList.add("active2");
 
     centerScroll2();
   }
 
   function centerScroll1() {
     let container = document.querySelector('.scroll-container1');
-    let selected = document.querySelector('.active');
+    let selected = document.querySelector('.active1');
     
     container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
   }
 
   function centerScroll2() {
     let container = document.querySelector('.scroll-container2');
-    let selected = document.querySelector('.active');
+    let selected = document.querySelector('.active2');
     
     container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
   }
