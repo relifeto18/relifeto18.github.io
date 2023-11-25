@@ -158,7 +158,7 @@ date:   2023-11-13 20:18:38
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/White-Tailed Deer.png" style="width:20%" onclick="currentSlide1(7)" alt="White-Tailed Deer">
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Goat.png" style="width:20%" onclick="currentSlide1(8)" alt="Goat">
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Sheep.png" style="width:20%" onclick="currentSlide1(9)" alt="Sheep">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Rhesus macaque.png" style="width:20%" onclick="currentSlide1(10)" alt="Rhesus macaque">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Rhesus Macaque.png" style="width:20%" onclick="currentSlide1(10)" alt="Rhesus Macaque">
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/American Goldfinch.png" style="width:20%" onclick="currentSlide1(11)" alt="American Goldfinch">
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/American Magpie.png" style="width:20%" onclick="currentSlide1(12)" alt="American Magpie">
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Spruce Grouse.png" style="width:20%" onclick="currentSlide1(13)" alt="Spruce Grouse">
