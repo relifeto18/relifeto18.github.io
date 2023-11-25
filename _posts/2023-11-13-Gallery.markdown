@@ -182,7 +182,7 @@ date:   2023-11-13 20:18:38
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Cat.png" style="width:20%" onclick="currentSlide1(31)" alt="Cat">
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Common Bluebottle.png" style="width:20%" onclick="currentSlide1(32)" alt="Common Bluebottle">
       <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Common Mormon.png" style="width:20%" onclick="currentSlide1(33)" alt="Common Mormon">
-    <div>
+    </div>
   </div>
 </div>
 
