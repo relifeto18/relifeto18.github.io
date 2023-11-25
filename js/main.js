@@ -100,14 +100,14 @@ exclude: 'yes'
   }
 
   function centerScroll1() {
-    let container = document.querySelector('.scroll-container');
+    let container = document.querySelector('.scroll-container1');
     let selected = document.querySelector('.active');
     
     container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
   }
 
   function centerScroll2() {
-    let container = document.querySelector('.scroll-container');
+    let container = document.querySelector('.scroll-container2');
     let selected = document.querySelector('.active');
     
     container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);

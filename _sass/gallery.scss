@@ -3,7 +3,12 @@
   }
   
   /* Position the image container (needed to position the left and right arrows) */
-  .container {
+  .container1 {
+    position: relative;
+    margin: 0;
+  }
+
+  .container2 {
     position: relative;
     margin: 0;
   }
@@ -61,7 +66,14 @@
   }
   
   /* Container for image text */
-  .caption-container {
+  .caption-container1 {
+    text-align: center;
+    background-color: #222;
+    padding: 20px 16px;
+    color: white;
+  }
+
+  .caption-container2 {
     text-align: center;
     background-color: #222;
     padding: 20px 16px;
@@ -103,7 +115,7 @@
     opacity: 1;
   }
 
-  div.scroll-container {
+  div.scroll-container1 {
     background-color: white;
     overflow-x: scroll;
     overflow-y: hidden;
@@ -111,7 +123,19 @@
     padding: 1px;
   }
   
-  div.scroll-container img {
+  div.scroll-container1 img {
+    padding: 0px;
+  }
+
+  div.scroll-container2 {
+    background-color: white;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    padding: 1px;
+  }
+  
+  div.scroll-container2 img {
     padding: 0px;
   }
 

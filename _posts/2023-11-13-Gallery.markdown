@@ -4,7 +4,7 @@ date:   2023-11-13 20:18:38
 ---
 ### Wildlife
 
-<div class="container">
+<div class="container1">
   <div class="mySlides1">
     <div class="numbertext">1 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Coyote.png" style="width:100%">
@@ -143,11 +143,11 @@ date:   2023-11-13 20:18:38
   <a class="next" onclick="plusSlides1(1)">&#10095;</a>
 
   <!-- Image text -->
-  <div class="caption-container">
+  <div class="caption-container1">
     <p id="caption" class="caption"></p>
   </div>
 
-  <div class="scroll-container">
+  <div class="scroll-container1">
     <div class="scroll-image">
       <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Coyote.png" style="width:20%" onclick="currentSlide1(1)" alt="Coyote">
       <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Bison.png" style="width:20%" onclick="currentSlide1(2)" alt="Bison">
@@ -189,7 +189,7 @@ date:   2023-11-13 20:18:38
 ### Transportation
 
 <!-- Container for the image gallery -->
-<div class="container">
+<div class="container2">
   <!-- Full-width images with number text -->
   <div class="mySlides2">
     <div class="numbertext">1 / 13</div>
@@ -249,12 +249,12 @@ date:   2023-11-13 20:18:38
   <a class="next" onclick="plusSlides2(1)">&#10095;</a>
 
   <!-- Image text -->
-  <div class="caption-container">
+  <div class="caption-container2">
     <p id="caption" class="caption"></p>
   </div>
 
   <!-- Thumbnail images -->
-  <div class="scroll-container">
+  <div class="scroll-container2">
     <div class="scroll-image">
       <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:20%" onclick="currentSlide2(1)" alt="SLC Station">
       <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1007.png" style="width:20%" onclick="currentSlide2(2)" alt="UTA 1007">
