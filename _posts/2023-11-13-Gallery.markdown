@@ -12,7 +12,7 @@ date:   2023-11-13 20:18:38
   </div>
   <div class="mySlides">
     <div class="numbertext">2 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/UTA 1007.png" style="width:100%">
+      <img src="{{ site.baseurl }}/images/gallery/astronomy/Lunar Eclispe.png" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">3 / 13</div>
