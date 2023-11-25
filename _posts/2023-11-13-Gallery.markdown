@@ -2,6 +2,8 @@
 title:  "Gallery"
 date:   2023-11-13 20:18:38
 ---
+### Welcome to My Gallery!
+
 ### Wildlife
 
 <div class="container1">
@@ -188,7 +190,7 @@ date:   2023-11-13 20:18:38
 
 
 <h3> Transportation </h3>
-<!--
+
 <div class="container2">
   <div class="mySlides2">
     <div class="numbertext1">1 / 13</div>
@@ -265,6 +267,6 @@ date:   2023-11-13 20:18:38
       <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1D0342.png" style="width:20%" onclick="currentSlide2(11)" alt="HXD 1D0342">
       <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/N510DN (A350).png" style="width:20%" onclick="currentSlide2(12)" alt="N510DN (A350)">
       <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:20%" onclick="currentSlide2(13)" alt="B-6361 (A321)">
-    <div>
+    </div>
   </div>
-</div> -->
+</div>
