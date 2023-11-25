@@ -6,135 +6,135 @@ date:   2023-11-13 20:18:38
 
 <div class="container1">
   <div class="mySlides1">
-    <div class="numbertext">1 / 33</div>
+    <div class="numbertext1">1 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Coyote.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">2 / 33</div>
+    <div class="numbertext1">2 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Bison.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">3 / 33</div>
+    <div class="numbertext1">3 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Pronghorn.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">4 / 33</div>
+    <div class="numbertext1">4 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Elk.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">5 / 33</div>
+    <div class="numbertext1">5 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Elk on Travertine Terraces.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">6 / 33</div>
+    <div class="numbertext1">6 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Horses.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">7 / 33</div>
+    <div class="numbertext1">7 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/White-Tailed Deer.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">8 / 33</div>
+    <div class="numbertext1">8 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Goat.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">9 / 33</div>
+    <div class="numbertext1">9 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Sheep.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">10 / 33</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Rhesus macaque.png" style="width:100%">
+    <div class="numbertext1">10 / 33</div>
+      <img src="{{ site.baseurl }}/images/gallery/wildlife/Rhesus Macaque.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">11 / 33</div>
+    <div class="numbertext1">11 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/American Goldfinch.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">12 / 33</div>
+    <div class="numbertext1">12 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/American Magpie.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">13 / 33</div>
+    <div class="numbertext1">13 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Spruce Grouse.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">14 / 33</div>
+    <div class="numbertext1">14 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Atlantic Puffin.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">15 / 33</div>
+    <div class="numbertext1">15 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Northern Gannet.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">16 / 33</div>
+    <div class="numbertext1">16 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Herring Gull and Seal.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">17 / 33</div>
+    <div class="numbertext1">17 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Common Eider.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">18 / 33</div>
+    <div class="numbertext1">18 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Black-Naped Tern.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">19 / 33</div>
+    <div class="numbertext1">19 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Mallard.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">20 / 33</div>
+    <div class="numbertext1">20 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Woodpecker.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">21 / 33</div>
+    <div class="numbertext1">21 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/American Robin.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">22 / 33</div>
+    <div class="numbertext1">22 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Great Blue Heron.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">23 / 33</div>
+    <div class="numbertext1">23 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Great Egret.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">24 / 33</div>
+    <div class="numbertext1">24 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Night Heron.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">25 / 33</div>
+    <div class="numbertext1">25 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Canada Goose.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">26 / 33</div>
+    <div class="numbertext1">26 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Mantis.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">27 / 33</div>
+    <div class="numbertext1">27 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Cottontail.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">28 / 33</div>
+    <div class="numbertext1">28 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Chipmunk.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">29 / 33</div>
+    <div class="numbertext1">29 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Fox Squirrel.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">30 / 33</div>
+    <div class="numbertext1">30 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Gecko.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">31 / 33</div>
+    <div class="numbertext1">31 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Cat.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">32 / 33</div>
+    <div class="numbertext1">32 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Common Bluebottle.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">33 / 33</div>
+    <div class="numbertext1">33 / 33</div>
       <img src="{{ site.baseurl }}/images/gallery/wildlife/Common Mormon.png" style="width:100%">
   </div>
 
@@ -187,60 +187,59 @@ date:   2023-11-13 20:18:38
 </div>
 
 
-
-<!-- ### Transportation
-
+ ### Transportation
+<!--
 <div class="container2">
   <div class="mySlides2">
-    <div class="numbertext">1 / 13</div>
+    <div class="numbertext1">1 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">2 / 13</div>
+    <div class="numbertext1">2 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/UTA 1007.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">3 / 13</div>
+    <div class="numbertext1">3 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/UTA 1040.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">4 / 13</div>
+    <div class="numbertext1">4 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/UTA FrontRunner 104.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">5 / 13</div>
+    <div class="numbertext1">5 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/BNSF 4021.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">6 / 13</div>
+    <div class="numbertext1">6 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/UP 5535.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">7 / 13</div>
+    <div class="numbertext1">7 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/DM 5732.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">8 / 13</div>
+    <div class="numbertext1">8 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/IDTX 4627.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">9 / 13</div>
+    <div class="numbertext1">9 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/SS3 8029.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">10 / 13</div>
+    <div class="numbertext1">10 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/HXD 1C3098.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">11 / 13</div>
+    <div class="numbertext1">11 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/HXD 1D0342.png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">12 / 13</div>
+    <div class="numbertext1">12 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/N510DN (A350).png" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">13 / 13</div>
+    <div class="numbertext1">13 / 13</div>
       <img src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:100%">
   </div>
 

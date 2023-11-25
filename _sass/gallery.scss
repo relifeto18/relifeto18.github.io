@@ -61,7 +61,15 @@
   }
   
   /* Number text (1/3 etc) */
-  .numbertext {
+  .numbertext1 {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+
+  .numbertext2 {
     color: #f2f2f2;
     font-size: 12px;
     padding: 8px 12px;
@@ -83,23 +91,7 @@
     padding: 20px 16px;
     color: white;
   }
-  
-  .row {
-    padding: 2px 16px;
-  }
-
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  
-  /* Six columns side by side */
-  .column {
-    float: left;
-    width: 16.66%;
-  }
-  
+    
   /* Add a transparency effect for thumnbail images */
   .demo1 {
     opacity: 0.6;
@@ -109,12 +101,12 @@
     opacity: 0.6;
   }
   
-  .active,
+  .active1,
   .demo1:hover {
     opacity: 1;
   }
 
-  .active,
+  .active2,
   .demo2:hover {
     opacity: 1;
   }
