@@ -23,7 +23,11 @@
   }
   
   /* Add a pointer when hovering over the thumbnail images */
-  .cursor {
+  .cursor1 {
+    cursor: pointer;
+  }
+
+  .cursor2 {
     cursor: pointer;
   }
   
@@ -139,17 +143,27 @@
     padding: 0px;
   }
 
-  .caption {
+  .caption1 {
     margin-bottom: 0em;
 	line-height: 0em;
   }
 
-  .scroll-image {
+  .caption2 {
+    margin-bottom: 0em;
+	line-height: 0em;
+  }
+
+  .scroll-image1 {
+    display: inline-block;
+    position: relative;
+  }
+
+  .scroll-image2 {
     display: inline-block;
     position: relative;
   }
   
-  .demo1 cursor {
+  .demo1 cursor1 {
       position: absolute;
       top: 50%;
       left: 50%;
@@ -158,7 +172,7 @@
       max-height: 100%;
   }
 
-  .demo2 cursor {
+  .demo2 cursor2 {
     position: absolute;
     top: 50%;
     left: 50%;

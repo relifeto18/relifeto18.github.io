@@ -144,47 +144,49 @@ date:   2023-11-13 20:18:38
 
   <!-- Image text -->
   <div class="caption-container1">
-    <p id="caption" class="caption"></p>
+    <p id="caption1" class="caption1"></p>
   </div>
 
   <div class="scroll-container1">
-    <div class="scroll-image">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Coyote.png" style="width:20%" onclick="currentSlide1(1)" alt="Coyote">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Bison.png" style="width:20%" onclick="currentSlide1(2)" alt="Bison">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Pronghorn.png" style="width:20%" onclick="currentSlide1(3)" alt="Pronghorn">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Elk.png" style="width:20%" onclick="currentSlide1(4)" alt="Elk">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Elk on Travertine Terraces.png" style="width:20%" onclick="currentSlide1(5)" alt="Elk on Travertine Terraces">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Horses.png" style="width:20%" onclick="currentSlide1(6)" alt="Horses">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/White-Tailed Deer.png" style="width:20%" onclick="currentSlide1(7)" alt="White-Tailed Deer">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Goat.png" style="width:20%" onclick="currentSlide1(8)" alt="Goat">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Sheep.png" style="width:20%" onclick="currentSlide1(9)" alt="Sheep">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Rhesus macaque.png" style="width:20%" onclick="currentSlide1(10)" alt="Rhesus macaque">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/American Goldfinch.png" style="width:20%" onclick="currentSlide1(11)" alt="American Goldfinch">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/American Magpie.png" style="width:20%" onclick="currentSlide1(12)" alt="American Magpie">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Spruce Grouse.png" style="width:20%" onclick="currentSlide1(13)" alt="Spruce Grouse">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Atlantic Puffin.png" style="width:20%" onclick="currentSlide1(14)" alt="Atlantic Puffin">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Northern Gannet.png" style="width:20%" onclick="currentSlide1(15)" alt="Northern Gannet">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Herring Gull and Seal.png" style="width:20%" onclick="currentSlide1(16)" alt="Herring Gull and Seal">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Common Eider.png" style="width:20%" onclick="currentSlide1(17)" alt="Common Eider">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Black-Naped Tern.png" style="width:20%" onclick="currentSlide1(18)" alt="Black-Naped Tern">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Mallard.png" style="width:20%" onclick="currentSlide1(19)" alt="Mallard">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Woodpecker.png" style="width:20%" onclick="currentSlide1(20)" alt="Woodpecker">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/American Robin.png" style="width:20%" onclick="currentSlide1(21)" alt="American Robin">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Great Blue Heron.png" style="width:20%" onclick="currentSlide1(22)" alt="Great Blue Heron">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Great Egret.png" style="width:20%" onclick="currentSlide1(23)" alt="Great Egret">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Night Heron.png" style="width:20%" onclick="currentSlide1(24)" alt="Night Heron">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Canada Goose.png" style="width:20%" onclick="currentSlide1(25)" alt="Canada Goose">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Mantis.png" style="width:20%" onclick="currentSlide1(26)" alt="Mantis">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Cottontail.png" style="width:20%" onclick="currentSlide1(27)" alt="Eastern Cottontail">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Chipmunk.png" style="width:20%" onclick="currentSlide1(28)" alt="Eastern Chipmunk">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Fox Squirrel.png" style="width:20%" onclick="currentSlide1(29)" alt="Fox Squirrel">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Gecko.png" style="width:20%" onclick="currentSlide1(30)" alt="Gecko">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Cat.png" style="width:20%" onclick="currentSlide1(31)" alt="Cat">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Common Bluebottle.png" style="width:20%" onclick="currentSlide1(32)" alt="Common Bluebottle">
-      <img class="demo1 cursor" src="{{ site.baseurl }}/images/gallery/wildlife/Common Mormon.png" style="width:20%" onclick="currentSlide1(33)" alt="Common Mormon">
+    <div class="scroll-image1">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Coyote.png" style="width:20%" onclick="currentSlide1(1)" alt="Coyote">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Bison.png" style="width:20%" onclick="currentSlide1(2)" alt="Bison">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Pronghorn.png" style="width:20%" onclick="currentSlide1(3)" alt="Pronghorn">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Elk.png" style="width:20%" onclick="currentSlide1(4)" alt="Elk">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Elk on Travertine Terraces.png" style="width:20%" onclick="currentSlide1(5)" alt="Elk on Travertine Terraces">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Horses.png" style="width:20%" onclick="currentSlide1(6)" alt="Horses">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/White-Tailed Deer.png" style="width:20%" onclick="currentSlide1(7)" alt="White-Tailed Deer">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Goat.png" style="width:20%" onclick="currentSlide1(8)" alt="Goat">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Sheep.png" style="width:20%" onclick="currentSlide1(9)" alt="Sheep">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Rhesus macaque.png" style="width:20%" onclick="currentSlide1(10)" alt="Rhesus macaque">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/American Goldfinch.png" style="width:20%" onclick="currentSlide1(11)" alt="American Goldfinch">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/American Magpie.png" style="width:20%" onclick="currentSlide1(12)" alt="American Magpie">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Spruce Grouse.png" style="width:20%" onclick="currentSlide1(13)" alt="Spruce Grouse">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Atlantic Puffin.png" style="width:20%" onclick="currentSlide1(14)" alt="Atlantic Puffin">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Northern Gannet.png" style="width:20%" onclick="currentSlide1(15)" alt="Northern Gannet">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Herring Gull and Seal.png" style="width:20%" onclick="currentSlide1(16)" alt="Herring Gull and Seal">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Common Eider.png" style="width:20%" onclick="currentSlide1(17)" alt="Common Eider">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Black-Naped Tern.png" style="width:20%" onclick="currentSlide1(18)" alt="Black-Naped Tern">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Mallard.png" style="width:20%" onclick="currentSlide1(19)" alt="Mallard">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Woodpecker.png" style="width:20%" onclick="currentSlide1(20)" alt="Woodpecker">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/American Robin.png" style="width:20%" onclick="currentSlide1(21)" alt="American Robin">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Great Blue Heron.png" style="width:20%" onclick="currentSlide1(22)" alt="Great Blue Heron">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Great Egret.png" style="width:20%" onclick="currentSlide1(23)" alt="Great Egret">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Night Heron.png" style="width:20%" onclick="currentSlide1(24)" alt="Night Heron">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Canada Goose.png" style="width:20%" onclick="currentSlide1(25)" alt="Canada Goose">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Mantis.png" style="width:20%" onclick="currentSlide1(26)" alt="Mantis">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Cottontail.png" style="width:20%" onclick="currentSlide1(27)" alt="Eastern Cottontail">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Chipmunk.png" style="width:20%" onclick="currentSlide1(28)" alt="Eastern Chipmunk">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Fox Squirrel.png" style="width:20%" onclick="currentSlide1(29)" alt="Fox Squirrel">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Gecko.png" style="width:20%" onclick="currentSlide1(30)" alt="Gecko">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Cat.png" style="width:20%" onclick="currentSlide1(31)" alt="Cat">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Common Bluebottle.png" style="width:20%" onclick="currentSlide1(32)" alt="Common Bluebottle">
+      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Common Mormon.png" style="width:20%" onclick="currentSlide1(33)" alt="Common Mormon">
     <div>
   </div>
 </div>
+
+
 
 ### Transportation
 
@@ -250,25 +252,25 @@ date:   2023-11-13 20:18:38
 
   <!-- Image text -->
   <div class="caption-container2">
-    <p id="caption" class="caption"></p>
+    <p id="caption2" class="caption2"></p>
   </div>
 
   <!-- Thumbnail images -->
   <div class="scroll-container2">
-    <div class="scroll-image">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:20%" onclick="currentSlide2(1)" alt="SLC Station">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1007.png" style="width:20%" onclick="currentSlide2(2)" alt="UTA 1007">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1040.png" style="width:20%" onclick="currentSlide2(3)" alt="UTA 1040">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/UTA FrontRunner 104.png" style="width:20%" onclick="currentSlide2(4)" alt="UTA FrontRunner 104">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/BNSF 4021.png" style="width:20%" onclick="currentSlide2(5)" alt="BNSF 4021">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/UP 5535.png" style="width:20%" onclick="currentSlide2(6)" alt="UP 5535">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/DM 5732.png" style="width:20%" onclick="currentSlide2(7)" alt="DM 5732">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/IDTX 4627.png" style="width:20%" onclick="currentSlide2(8)" alt="IDTX 4627">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/SS3 8029.png" style="width:20%" onclick="currentSlide2(9)" alt="SS3 8029">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1C3098.png" style="width:20%" onclick="currentSlide2(10)" alt="HXD 1C3098">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1D0342.png" style="width:20%" onclick="currentSlide2(11)" alt="HXD 1D0342">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/N510DN (A350).png" style="width:20%" onclick="currentSlide2(12)" alt="N510DN (A350)">
-      <img class="demo2 cursor" src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:20%" onclick="currentSlide2(13)" alt="B-6361 (A321)">
+    <div class="scroll-image2">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:20%" onclick="currentSlide2(1)" alt="SLC Station">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1007.png" style="width:20%" onclick="currentSlide2(2)" alt="UTA 1007">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1040.png" style="width:20%" onclick="currentSlide2(3)" alt="UTA 1040">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/UTA FrontRunner 104.png" style="width:20%" onclick="currentSlide2(4)" alt="UTA FrontRunner 104">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/BNSF 4021.png" style="width:20%" onclick="currentSlide2(5)" alt="BNSF 4021">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/UP 5535.png" style="width:20%" onclick="currentSlide2(6)" alt="UP 5535">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/DM 5732.png" style="width:20%" onclick="currentSlide2(7)" alt="DM 5732">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/IDTX 4627.png" style="width:20%" onclick="currentSlide2(8)" alt="IDTX 4627">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/SS3 8029.png" style="width:20%" onclick="currentSlide2(9)" alt="SS3 8029">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1C3098.png" style="width:20%" onclick="currentSlide2(10)" alt="HXD 1C3098">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1D0342.png" style="width:20%" onclick="currentSlide2(11)" alt="HXD 1D0342">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/N510DN (A350).png" style="width:20%" onclick="currentSlide2(12)" alt="N510DN (A350)">
+      <img class="demo2 cursor2" src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:20%" onclick="currentSlide2(13)" alt="B-6361 (A321)">
     <div>
   </div>
 </div>
