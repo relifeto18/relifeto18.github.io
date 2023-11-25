@@ -8,35 +8,35 @@ date:   2023-11-13 20:18:38
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/M42 - Orion Nebula.png" style="width:100%">
+      <img src="https://i.imgur.com/liEERRc.png" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">2 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/Lunar Eclispe.png" style="width:100%">
+      <img src="https://i.imgur.com/DYeLUF0.png" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">3 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/Partial Lunar Eclipse.png" style="width:100%">
+      <img src="https://i.imgur.com/fNobvQM.png" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">4 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/Partial Solar Eclipse.png" style="width:100%">
+      <img src="https://i.imgur.com/K0gt7Vp.png" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">5 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/C 2020 F3.png" style="width:100%">
+      <img src="https://i.imgur.com/YpLFN6y.jpg" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">6 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/C 2022 E3.png" style="width:100%">
+      <img src="https://i.imgur.com/G0CXbIU.jpg" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">7 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/M45 - Pleiades.png" style="width:100%">
+      <img src="https://i.imgur.com/grZ42M3.jpg" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">8 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/Grand Temple of Qiqushan.png" style="width:100%">
+      <img src="https://i.imgur.com/8zXm4vZ.jpg" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">9 / 14</div>
@@ -44,23 +44,23 @@ date:   2023-11-13 20:18:38
   </div>
   <div class="mySlides">
     <div class="numbertext">10 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/Milky Way.png" style="width:100%">
+      <img src="https://i.imgur.com/VTyFdNy.jpg" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">11 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/Perseids 1.png" style="width:100%">
+      <img src="https://i.imgur.com/5ujT3E5.png" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">12 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/Perseids 2.png" style="width:100%">
+      <img src="https://i.imgur.com/qSphuFG.png" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">13 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/Startrails.png" style="width:100%">
+      <img src="https://i.imgur.com/QwHlgL3.jpg" style="width:100%">
   </div>
   <div class="mySlides">
     <div class="numbertext">14 / 14</div>
-      <img src="{{ site.baseurl }}/images/gallery/astronomy/New Moon with Mercury and Venus.png" style="width:100%">
+      <img src="https://i.imgur.com/RrFpwbO.jpg" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -72,20 +72,20 @@ date:   2023-11-13 20:18:38
 
   <div class="scroll-container">
     <div class="scroll-image">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/M42 - Orion Nebula.png" style="width:20%" onclick="currentSlide(1)" alt="M42 - Orion Nebula">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/Lunar Eclispe.png" style="width:20%" onclick="currentSlide(2)" alt="Lunar Eclispe">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/Partial Lunar Eclipse.png" style="width:20%" onclick="currentSlide(3)" alt="Partial Lunar Eclipse">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/Partial Solar Eclipse.png" style="width:20%" onclick="currentSlide(4)" alt="Partial Solar Eclipse">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/C 2020 F3.png" style="width:20%" onclick="currentSlide(5)" alt="C 2020 F3">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/C 2022 E3.png" style="width:20%" onclick="currentSlide(6)" alt="C 2022 E3">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/M45 - Pleiades.png" style="width:20%" onclick="currentSlide(7)" alt="M45 - Pleiades">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/Grand Temple of Qiqushan.png" style="width:20%" onclick="currentSlide(8)" alt="Grand Temple of Qiqushan">
+      <img class="demo cursor" src="https://i.imgur.com/liEERRc.png" style="width:20%" onclick="currentSlide(1)" alt="M42 - Orion Nebula">
+      <img class="demo cursor" src="https://i.imgur.com/DYeLUF0.png" style="width:20%" onclick="currentSlide(2)" alt="Lunar Eclispe">
+      <img class="demo cursor" src="https://i.imgur.com/fNobvQM.png" style="width:20%" onclick="currentSlide(3)" alt="Partial Lunar Eclipse">
+      <img class="demo cursor" src="https://i.imgur.com/K0gt7Vp.png" style="width:20%" onclick="currentSlide(4)" alt="Partial Solar Eclipse">
+      <img class="demo cursor" src="https://i.imgur.com/YpLFN6y.jpg" style="width:20%" onclick="currentSlide(5)" alt="C 2020 F3">
+      <img class="demo cursor" src="https://i.imgur.com/G0CXbIU.jpg" style="width:20%" onclick="currentSlide(6)" alt="C 2022 E3">
+      <img class="demo cursor" src="https://i.imgur.com/grZ42M3.jpg" style="width:20%" onclick="currentSlide(7)" alt="M45 - Pleiades">
+      <img class="demo cursor" src="https://i.imgur.com/8zXm4vZ.jpg" style="width:20%" onclick="currentSlide(8)" alt="Grand Temple of Qiqushan">
       <img class="demo cursor" src="https://i.imgur.com/uy6LCRG.jpg" style="width:20%" onclick="currentSlide(9)" alt="Old Faithful Geyser">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/Milky Way.png" style="width:20%" onclick="currentSlide(10)" alt="Milky Way">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/Perseids 1.png" style="width:20%" onclick="currentSlide(11)" alt="Perseids">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/Perseids 2.png" style="width:20%" onclick="currentSlide(12)" alt="Perseids">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/Startrails.png" style="width:20%" onclick="currentSlide(13)" alt="Startrails">
-      <img class="demo cursor" src="{{ site.baseurl }}/images/gallery/astronomy/New Moon with Mercury and Venus.png" style="width:20%" onclick="currentSlide(14)" alt="New Moon with Mercury and Venus">
+      <img class="demo cursor" src="https://i.imgur.com/VTyFdNy.jpg" style="width:20%" onclick="currentSlide(10)" alt="Milky Way">
+      <img class="demo cursor" src="https://i.imgur.com/5ujT3E5.png" style="width:20%" onclick="currentSlide(11)" alt="Perseids">
+      <img class="demo cursor" src="https://i.imgur.com/qSphuFG.png" style="width:20%" onclick="currentSlide(12)" alt="Perseids">
+      <img class="demo cursor" src="https://i.imgur.com/QwHlgL3.jpg" style="width:20%" onclick="currentSlide(13)" alt="Startrails">
+      <img class="demo cursor" src="https://i.imgur.com/RrFpwbO.jpg" style="width:20%" onclick="currentSlide(14)" alt="New Moon with Mercury and Venus">
     </div>
   </div>
 </div>
@@ -96,139 +96,139 @@ date:   2023-11-13 20:18:38
 <div class="container1">
   <div class="mySlides1">
     <div class="numbertext">1 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Coyote.png" style="width:100%">
+      <img src="https://i.imgur.com/zU7HAva.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">2 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Bison.png" style="width:100%">
+      <img src="https://i.imgur.com/HEMZTtp.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">3 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Pronghorn.png" style="width:100%">
+      <img src="https://i.imgur.com/3UgsUXL.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">4 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Elk.png" style="width:100%">
+      <img src="https://i.imgur.com/hDodfbC.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">5 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Elk on Travertine Terraces.png" style="width:100%">
+      <img src="https://i.imgur.com/6xIaPN9.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">6 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Horses.png" style="width:100%">
+      <img src="https://i.imgur.com/Pr1LzQz.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">7 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/White-Tailed Deer.png" style="width:100%">
+      <img src="https://i.imgur.com/6HSAK7k.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">8 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Goat.png" style="width:100%">
+      <img src="https://i.imgur.com/PgfuMlT.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">9 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Sheep.png" style="width:100%">
+      <img src="https://i.imgur.com/gZzeDSJ.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">10 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Rhesus Monkey.png" style="width:100%">
+      <img src="https://i.imgur.com/vce8ucz.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">11 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/American Goldfinch.png" style="width:100%">
+      <img src="https://i.imgur.com/AXmGXQ9.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">12 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/American Magpie.png" style="width:100%">
+      <img src="https://i.imgur.com/yp8XYXj.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">13 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Spruce Grouse.png" style="width:100%">
+      <img src="https://i.imgur.com/vmfW8Ig.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">14 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Atlantic Puffin.png" style="width:100%">
+      <img src="https://i.imgur.com/y6yoONK.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">15 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Northern Gannet.png" style="width:100%">
+      <img src="https://i.imgur.com/p5WKxOV.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">16 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Herring Gull and Seal.png" style="width:100%">
+      <img src="https://i.imgur.com/OQGqljB.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">17 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Common Eider.png" style="width:100%">
+      <img src="https://i.imgur.com/wNiwH6T.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">18 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Black-Naped Tern.png" style="width:100%">
+      <img src="https://i.imgur.com/YrA8TjD.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">19 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Mallard.png" style="width:100%">
+      <img src="https://i.imgur.com/wKGOT0b.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">20 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Woodpecker.png" style="width:100%">
+      <img src="https://i.imgur.com/hEHwkde.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">21 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/American Robin.png" style="width:100%">
+      <img src="https://i.imgur.com/TqwtOWV.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">22 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Great Blue Heron.png" style="width:100%">
+      <img src="https://i.imgur.com/5dzORwA.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">23 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Great Egret.png" style="width:100%">
+      <img src="https://i.imgur.com/FjgnXby.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">24 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Night Heron.png" style="width:100%">
+      <img src="https://i.imgur.com/kzAE37L.png" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">25 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Canada Goose.png" style="width:100%">
+      <img src="https://i.imgur.com/lIHHHcy.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">26 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Mantis.png" style="width:100%">
+      <img src="https://i.imgur.com/2eay8eN.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">27 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Cottontail.png" style="width:100%">
+      <img src="https://i.imgur.com/4OCN06R.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">28 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Chipmunk.png" style="width:100%">
+      <img src="https://i.imgur.com/5NRRbkd.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">29 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Fox Squirrel.png" style="width:100%">
+      <img src="https://i.imgur.com/zBymxhA.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">30 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Gecko.png" style="width:100%">
+      <img src="https://i.imgur.com/GaQq0rG.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">31 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Cat.png" style="width:100%">
+      <img src="https://i.imgur.com/BpHSnkP.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">32 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Common Bluebottle.png" style="width:100%">
+      <img src="https://i.imgur.com/AoMLwcw.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">33 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Common Mormon.png" style="width:100%">
+      <img src="https://i.imgur.com/x5eiPQb.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
     <div class="numbertext">34 / 34</div>
-      <img src="{{ site.baseurl }}/images/gallery/wildlife/Fireflies.png" style="width:100%">
+      <img src="https://i.imgur.com/tfNzEP1.jpg" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
@@ -242,40 +242,40 @@ date:   2023-11-13 20:18:38
 
   <div class="scroll-container1">
     <div class="scroll-image1">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Coyote.png" style="width:20%" onclick="currentSlide1(1)" alt="Coyote">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Bison.png" style="width:20%" onclick="currentSlide1(2)" alt="Bison">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Pronghorn.png" style="width:20%" onclick="currentSlide1(3)" alt="Pronghorn">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Elk.png" style="width:20%" onclick="currentSlide1(4)" alt="Elk">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Elk on Travertine Terraces.png" style="width:20%" onclick="currentSlide1(5)" alt="Elk on Travertine Terraces">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Horses.png" style="width:20%" onclick="currentSlide1(6)" alt="Horses">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/White-Tailed Deer.png" style="width:20%" onclick="currentSlide1(7)" alt="White-Tailed Deer">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Goat.png" style="width:20%" onclick="currentSlide1(8)" alt="Goat">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Sheep.png" style="width:20%" onclick="currentSlide1(9)" alt="Sheep">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Rhesus Monkey.png" style="width:20%" onclick="currentSlide1(10)" alt="Rhesus Monkey">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/American Goldfinch.png" style="width:20%" onclick="currentSlide1(11)" alt="American Goldfinch">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/American Magpie.png" style="width:20%" onclick="currentSlide1(12)" alt="American Magpie">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Spruce Grouse.png" style="width:20%" onclick="currentSlide1(13)" alt="Spruce Grouse">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Atlantic Puffin.png" style="width:20%" onclick="currentSlide1(14)" alt="Atlantic Puffin">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Northern Gannet.png" style="width:20%" onclick="currentSlide1(15)" alt="Northern Gannet">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Herring Gull and Seal.png" style="width:20%" onclick="currentSlide1(16)" alt="Herring Gull and Seal">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Common Eider.png" style="width:20%" onclick="currentSlide1(17)" alt="Common Eider">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Black-Naped Tern.png" style="width:20%" onclick="currentSlide1(18)" alt="Black-Naped Tern">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Mallard.png" style="width:20%" onclick="currentSlide1(19)" alt="Mallard">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Woodpecker.png" style="width:20%" onclick="currentSlide1(20)" alt="Woodpecker">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/American Robin.png" style="width:20%" onclick="currentSlide1(21)" alt="American Robin">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Great Blue Heron.png" style="width:20%" onclick="currentSlide1(22)" alt="Great Blue Heron">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Great Egret.png" style="width:20%" onclick="currentSlide1(23)" alt="Great Egret">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Night Heron.png" style="width:20%" onclick="currentSlide1(24)" alt="Night Heron">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Canada Goose.png" style="width:20%" onclick="currentSlide1(25)" alt="Canada Goose">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Mantis.png" style="width:20%" onclick="currentSlide1(26)" alt="Mantis">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Cottontail.png" style="width:20%" onclick="currentSlide1(27)" alt="Eastern Cottontail">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Eastern Chipmunk.png" style="width:20%" onclick="currentSlide1(28)" alt="Eastern Chipmunk">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Fox Squirrel.png" style="width:20%" onclick="currentSlide1(29)" alt="Fox Squirrel">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Gecko.png" style="width:20%" onclick="currentSlide1(30)" alt="Gecko">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Cat.png" style="width:20%" onclick="currentSlide1(31)" alt="Cat">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Common Bluebottle.png" style="width:20%" onclick="currentSlide1(32)" alt="Common Bluebottle">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Common Mormon.png" style="width:20%" onclick="currentSlide1(33)" alt="Common Mormon">
-      <img class="demo1 cursor1" src="{{ site.baseurl }}/images/gallery/wildlife/Fireflies.png" style="width:20%" onclick="currentSlide1(34)" alt="Fireflies">
+      <img class="demo1 cursor1" src="https://i.imgur.com/zU7HAva.jpg" style="width:20%" onclick="currentSlide1(1)" alt="Coyote">
+      <img class="demo1 cursor1" src="https://i.imgur.com/HEMZTtp.jpg" style="width:20%" onclick="currentSlide1(2)" alt="Bison">
+      <img class="demo1 cursor1" src="https://i.imgur.com/3UgsUXL.jpg" style="width:20%" onclick="currentSlide1(3)" alt="Pronghorn">
+      <img class="demo1 cursor1" src="https://i.imgur.com/hDodfbC.jpg" style="width:20%" onclick="currentSlide1(4)" alt="Elk">
+      <img class="demo1 cursor1" src="https://i.imgur.com/6xIaPN9.jpg" style="width:20%" onclick="currentSlide1(5)" alt="Elk on Travertine Terraces">
+      <img class="demo1 cursor1" src="https://i.imgur.com/Pr1LzQz.jpg" style="width:20%" onclick="currentSlide1(6)" alt="Horses">
+      <img class="demo1 cursor1" src="https://i.imgur.com/6HSAK7k.jpg" style="width:20%" onclick="currentSlide1(7)" alt="White-Tailed Deer">
+      <img class="demo1 cursor1" src="https://i.imgur.com/PgfuMlT.jpg" style="width:20%" onclick="currentSlide1(8)" alt="Goat">
+      <img class="demo1 cursor1" src="https://i.imgur.com/gZzeDSJ.jpg" style="width:20%" onclick="currentSlide1(9)" alt="Sheep">
+      <img class="demo1 cursor1" src="https://i.imgur.com/vce8ucz.jpg" style="width:20%" onclick="currentSlide1(10)" alt="Rhesus Monkey">
+      <img class="demo1 cursor1" src="https://i.imgur.com/AXmGXQ9.jpg" style="width:20%" onclick="currentSlide1(11)" alt="American Goldfinch">
+      <img class="demo1 cursor1" src="https://i.imgur.com/yp8XYXj.jpg" style="width:20%" onclick="currentSlide1(12)" alt="American Magpie">
+      <img class="demo1 cursor1" src="https://i.imgur.com/vmfW8Ig.jpg" style="width:20%" onclick="currentSlide1(13)" alt="Spruce Grouse">
+      <img class="demo1 cursor1" src="https://i.imgur.com/y6yoONK.jpg" style="width:20%" onclick="currentSlide1(14)" alt="Atlantic Puffin">
+      <img class="demo1 cursor1" src="https://i.imgur.com/p5WKxOV.jpg" style="width:20%" onclick="currentSlide1(15)" alt="Northern Gannet">
+      <img class="demo1 cursor1" src="https://i.imgur.com/OQGqljB.jpg" style="width:20%" onclick="currentSlide1(16)" alt="Herring Gull and Seal">
+      <img class="demo1 cursor1" src="https://i.imgur.com/wNiwH6T.jpg" style="width:20%" onclick="currentSlide1(17)" alt="Common Eider">
+      <img class="demo1 cursor1" src="https://i.imgur.com/YrA8TjD.jpg" style="width:20%" onclick="currentSlide1(18)" alt="Black-Naped Tern">
+      <img class="demo1 cursor1" src="https://i.imgur.com/wKGOT0b.jpg" style="width:20%" onclick="currentSlide1(19)" alt="Mallard">
+      <img class="demo1 cursor1" src="https://i.imgur.com/hEHwkde.jpg" style="width:20%" onclick="currentSlide1(20)" alt="Woodpecker">
+      <img class="demo1 cursor1" src="https://i.imgur.com/TqwtOWV.jpg" style="width:20%" onclick="currentSlide1(21)" alt="American Robin">
+      <img class="demo1 cursor1" src="https://i.imgur.com/5dzORwA.jpg" style="width:20%" onclick="currentSlide1(22)" alt="Great Blue Heron">
+      <img class="demo1 cursor1" src="https://i.imgur.com/FjgnXby.jpg" style="width:20%" onclick="currentSlide1(23)" alt="Great Egret">
+      <img class="demo1 cursor1" src="https://i.imgur.com/kzAE37L.png" style="width:20%" onclick="currentSlide1(24)" alt="Night Heron">
+      <img class="demo1 cursor1" src="https://i.imgur.com/lIHHHcy.jpg" style="width:20%" onclick="currentSlide1(25)" alt="Canada Goose">
+      <img class="demo1 cursor1" src="https://i.imgur.com/2eay8eN.jpg" style="width:20%" onclick="currentSlide1(26)" alt="Mantis">
+      <img class="demo1 cursor1" src="https://i.imgur.com/4OCN06R.jpg" style="width:20%" onclick="currentSlide1(27)" alt="Eastern Cottontail">
+      <img class="demo1 cursor1" src="https://i.imgur.com/5NRRbkd.jpg" style="width:20%" onclick="currentSlide1(28)" alt="Eastern Chipmunk">
+      <img class="demo1 cursor1" src="https://i.imgur.com/zBymxhA.jpg" style="width:20%" onclick="currentSlide1(29)" alt="Fox Squirrel">
+      <img class="demo1 cursor1" src="https://i.imgur.com/GaQq0rG.jpg" style="width:20%" onclick="currentSlide1(30)" alt="Gecko">
+      <img class="demo1 cursor1" src="https://i.imgur.com/BpHSnkP.jpg" style="width:20%" onclick="currentSlide1(31)" alt="Cat">
+      <img class="demo1 cursor1" src="https://i.imgur.com/AoMLwcw.jpg" style="width:20%" onclick="currentSlide1(32)" alt="Common Bluebottle">
+      <img class="demo1 cursor1" src="https://i.imgur.com/x5eiPQb.jpg" style="width:20%" onclick="currentSlide1(33)" alt="Common Mormon">
+      <img class="demo1 cursor1" src="https://i.imgur.com/tfNzEP1.jpg" style="width:20%" onclick="currentSlide1(34)" alt="Fireflies">
     </div>
   </div>
 </div>
@@ -450,55 +450,55 @@ date:   2023-11-13 20:18:38
 <div class="container3">
   <div class="mySlides3">
     <div class="numbertext">1 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:100%">
+      <img src="https://i.imgur.com/DVc0AKF.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">2 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/UTA 1007.png" style="width:100%">
+      <img src="https://i.imgur.com/toInclz.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">3 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/UTA 1040.png" style="width:100%">
+      <img src="https://i.imgur.com/RgEH0TM.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">4 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/UTA FrontRunner 104.png" style="width:100%">
+      <img src="https://i.imgur.com/LpknSgp.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">5 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/BNSF 4021.png" style="width:100%">
+      <img src="https://i.imgur.com/oSdk9M2.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">6 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/UP 5535.png" style="width:100%">
+      <img src="https://i.imgur.com/qzqDcCk.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">7 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/DM 5732.png" style="width:100%">
+      <img src="https://i.imgur.com/R8lkptW.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">8 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/IDTX 4627.png" style="width:100%">
+      <img src="https://i.imgur.com/4BR9PVF.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">9 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/SS3 8029.png" style="width:100%">
+      <img src="https://i.imgur.com/HUD0R2y.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">10 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/HXD 1C3098.png" style="width:100%">
+      <img src="https://i.imgur.com/ZQqW1LJ.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">11 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/HXD 1D0342.png" style="width:100%">
+      <img src="https://i.imgur.com/tkKe7PB.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">12 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/N510DN (A350).png" style="width:100%">
+      <img src="https://i.imgur.com/XIB3sFN.jpg" style="width:100%">
   </div>
   <div class="mySlides3">
     <div class="numbertext">13 / 13</div>
-      <img src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:100%">
+      <img src="https://i.imgur.com/uOX1SR8.jpg" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides3(-1)">&#10094;</a>
@@ -510,19 +510,19 @@ date:   2023-11-13 20:18:38
 
   <div class="scroll-container3">
     <div class="scroll-image3">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/SLC Station.png" style="width:20%" onclick="currentSlide3(1)" alt="SLC Station">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1007.png" style="width:20%" onclick="currentSlide3(2)" alt="UTA 1007">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/UTA 1040.png" style="width:20%" onclick="currentSlide3(3)" alt="UTA 1040">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/UTA FrontRunner 104.png" style="width:20%" onclick="currentSlide3(4)" alt="UTA FrontRunner 104">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/BNSF 4021.png" style="width:20%" onclick="currentSlide3(5)" alt="BNSF 4021">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/UP 5535.png" style="width:20%" onclick="currentSlide3(6)" alt="UP 5535">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/DM 5732.png" style="width:20%" onclick="currentSlide3(7)" alt="DM 5732">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/IDTX 4627.png" style="width:20%" onclick="currentSlide3(8)" alt="IDTX 4627">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/SS3 8029.png" style="width:20%" onclick="currentSlide3(9)" alt="SS3 8029">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1C3098.png" style="width:20%" onclick="currentSlide3(10)" alt="HXD 1C3098">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/HXD 1D0342.png" style="width:20%" onclick="currentSlide3(11)" alt="HXD 1D0342">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/N510DN (A350).png" style="width:20%" onclick="currentSlide3(12)" alt="N510DN (A350)">
-      <img class="demo3 cursor3" src="{{ site.baseurl }}/images/gallery/transportation/B-6361 (A321).png" style="width:20%" onclick="currentSlide3(13)" alt="B-6361 (A321)">
+      <img class="demo3 cursor3" src="https://i.imgur.com/DVc0AKF.jpg" style="width:20%" onclick="currentSlide3(1)" alt="SLC Station">
+      <img class="demo3 cursor3" src="https://i.imgur.com/toInclz.jpg" style="width:20%" onclick="currentSlide3(2)" alt="UTA 1007">
+      <img class="demo3 cursor3" src="https://i.imgur.com/RgEH0TM.jpg" style="width:20%" onclick="currentSlide3(3)" alt="UTA 1040">
+      <img class="demo3 cursor3" src="https://i.imgur.com/LpknSgp.jpg" style="width:20%" onclick="currentSlide3(4)" alt="UTA FrontRunner 104">
+      <img class="demo3 cursor3" src="https://i.imgur.com/oSdk9M2.jpg" style="width:20%" onclick="currentSlide3(5)" alt="BNSF 4021">
+      <img class="demo3 cursor3" src="https://i.imgur.com/qzqDcCk.jpg" style="width:20%" onclick="currentSlide3(6)" alt="UP 5535">
+      <img class="demo3 cursor3" src="https://i.imgur.com/R8lkptW.jpg" style="width:20%" onclick="currentSlide3(7)" alt="DM 5732">
+      <img class="demo3 cursor3" src="https://i.imgur.com/4BR9PVF.jpg" style="width:20%" onclick="currentSlide3(8)" alt="IDTX 4627">
+      <img class="demo3 cursor3" src="https://i.imgur.com/HUD0R2y.jpg" style="width:20%" onclick="currentSlide3(9)" alt="SS3 8029">
+      <img class="demo3 cursor3" src="https://i.imgur.com/ZQqW1LJ.jpg" style="width:20%" onclick="currentSlide3(10)" alt="HXD 1C3098">
+      <img class="demo3 cursor3" src="https://i.imgur.com/tkKe7PB.jpg" style="width:20%" onclick="currentSlide3(11)" alt="HXD 1D0342">
+      <img class="demo3 cursor3" src="https://i.imgur.com/XIB3sFN.jpg" style="width:20%" onclick="currentSlide3(12)" alt="N510DN (A350)">
+      <img class="demo3 cursor3" src="https://i.imgur.com/uOX1SR8.jpg" style="width:20%" onclick="currentSlide3(13)" alt="B-6361 (A321)">
     </div>
   </div>
 </div>
