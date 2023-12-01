@@ -11,7 +11,7 @@ Take a look at what I have done.
     <!-- <table class="work"> -->
     <table>
       <tr>
-        <td colspan="2"><img src="{{ site.baseurl }}/images/Data/ufair.png" alt="ufair logo" style="width:100px;height:100px;"></td>
+        <td><img src="{{ site.baseurl }}/images/Data/ufair.png" alt="ufair logo" style="width:100px;height:100px;"></td>
         <td><strong> Ningbo XiaoCheng Information Technology Co., Ltd. </strong></td>
         <td><em> Intern in the Product Development Department </em></td>
       </tr>
