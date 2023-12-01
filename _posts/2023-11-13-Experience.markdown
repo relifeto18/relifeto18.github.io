@@ -38,8 +38,12 @@ Take a look at what I have done.
   </div>
 </div>
 
-<h3> Project Experience </h3>
+<!-- ### Project Experience
 
 
-### Research Experience
+### Research Experience -->
 
+<div class="margin-adjustment">
+  <h3> Project Experience </h3>
+  <h3> Research Experience </h3>
+</div>

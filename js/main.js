@@ -194,6 +194,7 @@ exclude: 'yes'
   const flipCardInner = document.getElementById('flip-card-inner');
   const flipCardFront = flipCardInner.querySelector('.flip-card-front');
   const flipCardBack = flipCardInner.querySelector('.flip-card-back');
+  const marginAdjustment = document.querySelector('.margin-adjustment');
 
   flipCardInner.addEventListener('mouseover', function() {
     this.style.width = flipCardBack.scrollWidth + 'px';
