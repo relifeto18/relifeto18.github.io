@@ -207,7 +207,7 @@ exclude: 'yes'
 
   document.addEventListener('DOMContentLoaded', function() {
     const flipCard = document.querySelector('.flip-card'); // Adjust the selector to target the flip card
-    const followingSection = document.querySelector('.following-section'); // Adjust the selector to target the section that follows the flip card
+    const followingSection = document.querySelector('#following-section'); // Adjust the selector to target the section that follows the flip card
 
     function adjustFollowingSection() {
       // Check if the flip card is in its flipped state
