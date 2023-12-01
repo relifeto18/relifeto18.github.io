@@ -43,7 +43,7 @@ Take a look at what I have done.
 
 ### Research Experience -->
 
-<div class="margin-adjustment">
+<div class="following-section">
   <h3> Project Experience </h3>
   <h3> Research Experience </h3>
 </div>
