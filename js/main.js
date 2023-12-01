@@ -190,3 +190,17 @@ exclude: 'yes'
     
     container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
   }
+
+  const flipCardInner = document.getElementById('flip-card-inner');
+  const flipCardFront = flipCardInner.querySelector('.flip-card-front');
+  const flipCardBack = flipCardInner.querySelector('.flip-card-back');
+
+  flipCardInner.addEventListener('mouseover', function() {
+    this.style.width = flipCardBack.scrollWidth + 'px';
+    this.style.height = flipCardBack.scrollHeight + 'px';
+  });
+
+  flipCardInner.addEventListener('mouseout', function() {
+    this.style.width = flipCardFront.offsetWidth + 'px';
+    this.style.height = flipCardFront.offsetHeight + 'px';
+  });

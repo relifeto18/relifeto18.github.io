@@ -1,0 +1,37 @@
+.flip-card {
+  background-color: transparent;
+  perspective: 1000px;
+  margin: 20px; /* Adjusted margin */
+}
+
+.flip-card-inner {
+  position: relative;
+  transition: transform 0.6s, height 0.6s, width 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+  width: 300px; /* Fixed width for front */
+  height: 300px; /* Fixed height for front */
+}
+
+.flip-card-back {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+  padding: 20px;
+  white-space: nowrap; /* Prevents text wrapping */
+}
