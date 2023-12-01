@@ -16,13 +16,16 @@ Take a look at what I have done.
     <td class="right"><em> April 2019 – September 2021 </em></td>
   </tr>
   <tr>
-    <td colspan="2"> Worked on projects using HTML, JavaScript for the development of corporate webpage <a href="https://ufair.net.cn/">[Link]</a>.</td>
+    <td colspan="2"><strong> Web Page Development: </strong> 
+                              Worked on projects using HTML and JavaScript to develop corporate web pages and ensure that the web pages are dynamic <a href="https://ufair.net.cn/">[Link]</a>.</td>
   </tr>
   <tr>
-    <td colspan="2"> Designed database systems that are incorporated to the corporate WeChat applet. </td>
+    <td colspan="2"><strong> Database Development: </strong> 
+                              Designed and incorporated the database systems into the corporate WeChat applet, facilitating efficient information collection and storage </td>
   </tr>
   <tr>
-    <td colspan="2"> Developed document file and design for the corporate WeChat applet. </td>
+    <td colspan="2"><strong> Program Maintenance: </strong> 
+                              Contributed to the development of document files and designs for another corporate WeChat applet, actively participating in technical feasibility assessments and design optimization processes. </td>
   </tr>
 </table>
 
