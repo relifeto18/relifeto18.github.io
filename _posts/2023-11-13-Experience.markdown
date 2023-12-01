@@ -38,7 +38,7 @@ Take a look at what I have done.
   </div>
 </div>
 
-### Project Experience
+<h3> Project Experience </h3>
 
 
 ### Research Experience
