@@ -206,18 +206,21 @@ exclude: 'yes'
   });
 
   document.addEventListener('DOMContentLoaded', function() {
-    const flipCard = document.querySelector('.flip-card'); // Selector for the flip card
-    const followingSection = document.querySelector('.following-section'); // Selector for the section following the flip card
-
-    // Function to adjust the margin of the following section based on the height of the flip card
+    const flipCardInner = document.getElementById('flip-card-inner');
+    const flipCardFront = flipCardInner.querySelector('.flip-card-front');
+    const flipCardBack = flipCardInner.querySelector('.flip-card-back');
+    const followingSection = document.querySelector('.following-section');
+  
+    // Function to adjust the margin of the following section
     function adjustFollowingSection() {
-        // We'll use the 'transitionend' event to adjust the margin after the flip animation completes
-        followingSection.style.marginTop = flipCard.offsetHeight + 'px';
+      const flipCardHeight = flipCardInner.offsetHeight;
+      followingSection.style.marginTop = flipCardHeight + 'px';
     }
-
-    // Add event listener to the flip card
-    flipCard.addEventListener('transitionend', adjustFollowingSection);
-
+  
+    // Adjust margin on flip card hover and mouseout
+    flipCardInner.addEventListener('mouseover', adjustFollowingSection);
+    flipCardInner.addEventListener('mouseout', adjustFollowingSection);
+  
     // Initial adjustment on page load
     adjustFollowingSection();
-});
+  });
