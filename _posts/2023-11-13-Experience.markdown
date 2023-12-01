@@ -8,7 +8,8 @@ Take a look at what I have done.
 
 <div class="flip-card">
   <div class="flip-card-inner" id="flip-card-inner">
-    <table class="work">
+    <!-- <table class="work"> -->
+    <table>
       <tr>
         <td colspan="2"><img src="{{ site.baseurl }}/images/Data/ufair.png" alt="ufair logo" style="width:100px;height:100px;"></td>
         <td><strong> Ningbo XiaoCheng Information Technology Co., Ltd. </strong></td>
