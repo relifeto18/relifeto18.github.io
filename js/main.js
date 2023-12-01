@@ -199,9 +199,11 @@ exclude: 'yes'
   flipCardInner.addEventListener('mouseover', function() {
     this.style.width = flipCardBack.scrollWidth + 'px';
     this.style.height = flipCardBack.scrollHeight + 'px';
+    contentBelowCard.style.marginTop = '320px';
   });
 
   flipCardInner.addEventListener('mouseout', function() {
     this.style.width = flipCardFront.offsetWidth + 'px';
     this.style.height = flipCardFront.offsetHeight + 'px';
+    contentBelowCard.style.marginTop = '0px';
   });
