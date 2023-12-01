@@ -207,7 +207,7 @@ exclude: 'yes'
 
   document.addEventListener('DOMContentLoaded', function() {
     const flipCard = document.querySelector('.flip-card'); // Adjust the selector to target the flip card
-    const followingSection = document.querySelector('#following-section'); // Adjust the selector to target the section that follows the flip card
+    const followingSection = document.querySelector('.following-section'); // Adjust the selector to target the section that follows the flip card
 
     function adjustFollowingSection() {
       // Check if the flip card is in its flipped state
@@ -220,11 +220,15 @@ exclude: 'yes'
           // If not flipped, reset the top margin
           followingSection.style.marginTop = '0px';
       }
+      followingSection.style.marginTop = flipCard.offsetHeight + 'px';
     }
 
     // Add event listeners to adjust the layout when the flip card is interacted with
     flipCard.addEventListener('click', adjustFollowingSection); // Adjust the event type if needed
     flipCard.addEventListener('mouseleave', adjustFollowingSection); // Adjust the event type if needed
+    flipCard.addEventListener('transitionend', adjustFollowingSection);
+
+    adjustFollowingSection();
   });
 
   window.onload = function() {
