@@ -206,31 +206,18 @@ exclude: 'yes'
   });
 
   document.addEventListener('DOMContentLoaded', function() {
-    const flipCard = document.querySelector('.flip-card'); // Adjust the selector to target the flip card
-    const followingSection = document.querySelector('.following-section'); // Adjust the selector to target the section that follows the flip card
+    const flipCard = document.querySelector('.flip-card'); // Selector for the flip card
+    const followingSection = document.querySelector('.following-section'); // Selector for the section following the flip card
 
+    // Function to adjust the margin of the following section based on the height of the flip card
     function adjustFollowingSection() {
-      // Check if the flip card is in its flipped state
-      const isFlipped = flipCard.classList.contains('flipped'); // Adjust the class name based on how the flip is implemented
-
-      if (isFlipped) {
-          // If flipped, set the top margin of the following section to the height of the flip card
-          followingSection.style.marginTop = flipCard.offsetHeight + 'px';
-      } else {
-          // If not flipped, reset the top margin
-          followingSection.style.marginTop = '0px';
-      }
-      followingSection.style.marginTop = flipCard.offsetHeight + 'px';
+        // We'll use the 'transitionend' event to adjust the margin after the flip animation completes
+        followingSection.style.marginTop = flipCard.offsetHeight + 'px';
     }
 
-    // Add event listeners to adjust the layout when the flip card is interacted with
-    flipCard.addEventListener('click', adjustFollowingSection); // Adjust the event type if needed
-    flipCard.addEventListener('mouseleave', adjustFollowingSection); // Adjust the event type if needed
+    // Add event listener to the flip card
     flipCard.addEventListener('transitionend', adjustFollowingSection);
 
+    // Initial adjustment on page load
     adjustFollowingSection();
-  });
-
-  window.onload = function() {
-    flipCardInner.style.height = flipCardFront.scrollHeight + 'px';
-  };
+});
