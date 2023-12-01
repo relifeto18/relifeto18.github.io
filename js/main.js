@@ -226,3 +226,7 @@ exclude: 'yes'
     flipCard.addEventListener('click', adjustFollowingSection); // Adjust the event type if needed
     flipCard.addEventListener('mouseleave', adjustFollowingSection); // Adjust the event type if needed
   });
+
+  window.onload = function() {
+    flipCardInner.style.height = flipCardFront.scrollHeight + 'px';
+  };
