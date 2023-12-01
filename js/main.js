@@ -224,3 +224,19 @@ exclude: 'yes'
     // Initial adjustment on page load
     adjustFollowingSection();
   });
+
+//   document.addEventListener('DOMContentLoaded', function() {
+//     const flipCard = document.querySelector('.flip-card'); // Selector for the flip card
+//     const followingSection = document.querySelector('.following-section'); // Selector for the section following the flip card
+
+//     function adjustFollowingSection() {
+//         // We'll use the 'transitionend' event to adjust the margin after the flip animation completes
+//         followingSection.style.marginTop = flipCard.offsetHeight + 'px';
+//     }
+
+//     // Add event listener to the flip card
+//     flipCard.addEventListener('transitionend', adjustFollowingSection);
+
+//     // Initial adjustment on page load
+//     adjustFollowingSection();
+// });
