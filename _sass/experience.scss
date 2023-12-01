@@ -1,6 +1,6 @@
 .flip-card {
   background-color: transparent;
-  perspective: 1000px;
+  perspective: 10000px;
   margin: 20px; /* Adjusted margin */
 }
 
@@ -24,12 +24,10 @@
 .flip-card-front {
   background-color: #bbb;
   color: black;
-  width: 300px; /* Fixed width for front */
-  height: 300px; /* Fixed height for front */
 }
 
 .flip-card-back {
-  background-color: #2980b9;
+  background-color: rgb(244, 132, 4);
   color: white;
   transform: rotateY(180deg);
   padding: 20px;
