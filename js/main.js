@@ -239,4 +239,8 @@ exclude: 'yes'
 
     // Initial adjustment on page load
     adjustFollowingSection();
-});
+  });
+
+  window.onload = function() {
+    flipCardInner.style.height = flipCardFront.scrollHeight + 'px';
+  };
