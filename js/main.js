@@ -38,6 +38,7 @@ exclude: 'yes'
     })
 
     adjustPosition(false); 
+    adjustPosition1(false); 
 
   })
 
@@ -257,12 +258,22 @@ exclude: 'yes'
   // });
 
   var isFlipped = false;
+  var isFlipped1 = false;
 
   function adjustPosition(flipped) {
     isFlipped = flipped;
     var flipCard = document.querySelector('.flip-card');
     var front = document.querySelector('.flip-card-front');
     var back = document.querySelector('.flip-card-back');
+
+    flipCard.style.height = (isFlipped ? back.offsetHeight : front.offsetHeight) + 'px';
+  }
+
+  function adjustPosition1(flipped) {
+    isFlipped1 = flipped;
+    var flipCard = document.querySelector('.flip-card-1');
+    var front = document.querySelector('.flip-card-front-1');
+    var back = document.querySelector('.flip-card-back-1');
 
     flipCard.style.height = (isFlipped ? back.offsetHeight : front.offsetHeight) + 'px';
   }
