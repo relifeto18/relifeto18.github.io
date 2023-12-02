@@ -271,11 +271,11 @@ exclude: 'yes'
 
   function adjustPosition1(flipped) {
     isFlipped1 = flipped;
-    var flipCard = document.querySelector('.flip-card-1');
-    var front = document.querySelector('.flip-card-front-1');
-    var back = document.querySelector('.flip-card-back-1');
+    var flipCard1 = document.querySelector('.flip-card-1');
+    var front1 = document.querySelector('.flip-card-front-1');
+    var back1 = document.querySelector('.flip-card-back-1');
 
-    flipCard.style.height = (isFlipped ? back.offsetHeight : front.offsetHeight) + 'px';
+    flipCard1.style.height = (isFlipped1 ? back1.offsetHeight : front1.offsetHeight) + 'px';
   }
 
   // $(document).ready(function() {
