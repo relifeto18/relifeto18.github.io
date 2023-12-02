@@ -46,13 +46,13 @@ Take a look at what I have done.
     <div class="flip-card-front-1">
       <table class="work">
         <tr>
-          <td rowspan="2"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
           <td class="left"><strong> ROB 498: Robot Learning for Planning and Control </strong></td>
-          <td class="right"><strong> Ann Arbor, MI </strong></td>
+          <td class="left"><strong> Ann Arbor, MI </strong></td>
         </tr>
         <tr>
           <td class="left"><em> Trajectory Optimization of Inverted Double Pendulum on a Cart Problem </em></td>
-          <td class="right"><em> April 2023 </em></td>
+          <td class="left"><em> April 2023 </em></td>
         </tr>
       </table>
     </div>
