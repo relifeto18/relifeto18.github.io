@@ -266,7 +266,7 @@ exclude: 'yes'
   }
 
   $(document).ready(function() {
-    adjustPosition(false);
+    adjustPosition(false); 
   });
 
   // document.addEventListener('DOMContentLoaded', function() {
