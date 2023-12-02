@@ -37,6 +37,8 @@ exclude: 'yes'
       $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')
     })
 
+    adjustPosition(false); 
+
   })
 
   let slideIndex = 1;
@@ -265,9 +267,9 @@ exclude: 'yes'
     flipCard.style.height = (isFlipped ? back.offsetHeight : front.offsetHeight) + 'px';
   }
 
-  $(document).ready(function() {
-    adjustPosition(false); 
-  });
+  // $(document).ready(function() {
+  //   adjustPosition(false); 
+  // });
 
   // document.addEventListener('DOMContentLoaded', function() {
   //   adjustPosition(false);
