@@ -11,7 +11,7 @@ Take a look at what I have done.
     <div class="flip-card-front">
       <table class="work">
         <tr>
-          <td rowspan="2"><img src="{{ site.baseurl }}/images/Data/ufair.png" alt="ufair logo" style="width:100px;height:100px;"></td>
+          <td rowspan="2"><img src="{{ site.baseurl }}/images/Data/ufair.png" alt="ufair logo" style="width:80px;height:80px;"></td>
           <td class="left"><strong> Ningbo XiaoCheng Information Technology Co., Ltd. </strong></td>
           <td class="right"><strong> Ningbo, China </strong></td>
         </tr>
