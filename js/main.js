@@ -265,6 +265,10 @@ exclude: 'yes'
     flipCard.style.height = (isFlipped ? back.offsetHeight : front.offsetHeight) + 'px';
   }
 
-  window.addEventListener('load', function() {
+  document.addEventListener('DOMContentLoaded', function() {
     adjustPosition(false);
   });
+
+  // window.addEventListener('load', function() {
+  //   adjustPosition(false);
+  // });
