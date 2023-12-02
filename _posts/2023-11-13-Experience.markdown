@@ -47,7 +47,7 @@ Take a look at what I have done.
       <table class="work">
         <tr>
           <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
-          <td class="left"><strong> ROB 498: Robot Learning for Planning and Control </strong></td>
+          <td class="left"><strong> ROB 498: Robot Learning for Planning and Control <a href="https://github.com/relifeto18/Differential_dynamic_programming_controller">[Link]</a></strong></td>
           <td class="left"><strong> Ann Arbor, MI </strong></td>
         </tr>
         <tr>
