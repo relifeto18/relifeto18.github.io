@@ -4,6 +4,12 @@
   margin: 5px; /* Adjusted margin */
 }
 
+.flip-card:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .flip-card-inner {
   position: relative;
   transition: transform 0.2s, height 0.2s, width 0.2s;
