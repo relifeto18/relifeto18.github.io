@@ -40,10 +40,10 @@ Take a look at what I have done.
 </div>
 
 
-<!-- ### Project Experience
+### Project Experience
 
 
-### Research Experience -->
+### Research Experience
 
 <!-- <div class="following-section">
   <h3> Project Experience </h3>
