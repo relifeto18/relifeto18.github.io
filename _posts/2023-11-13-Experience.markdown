@@ -41,7 +41,7 @@ Take a look at what I have done.
 
 ### Project Experience
 
-<div class="flip-card-1" onmouseenter="adjustPosition(true)" onmouseleave="adjustPosition(false)">
+<div class="flip-card-1" onmouseenter="adjustPosition1(true)" onmouseleave="adjustPosition1(false)">
   <div class="flip-card-inner-1" id="flip-card-inner-1">
     <div class="flip-card-front-1">
       <table class="work">
