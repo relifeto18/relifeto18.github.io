@@ -191,19 +191,19 @@ exclude: 'yes'
     container.scrollLeft = selected.offsetLeft + (selected.offsetWidth / 2) - (container.offsetWidth / 2);
   }
 
-  const flipCardInner = document.getElementById('flip-card-inner');
-  const flipCardFront = flipCardInner.querySelector('.flip-card-front');
-  const flipCardBack = flipCardInner.querySelector('.flip-card-back');
+  // const flipCardInner = document.getElementById('flip-card-inner');
+  // const flipCardFront = flipCardInner.querySelector('.flip-card-front');
+  // const flipCardBack = flipCardInner.querySelector('.flip-card-back');
 
-  flipCardInner.addEventListener('mouseover', function() {
-    this.style.width = flipCardBack.scrollWidth + 'px';
-    this.style.height = flipCardBack.scrollHeight + 'px';
-  });
+  // flipCardInner.addEventListener('mouseover', function() {
+  //   this.style.width = flipCardBack.scrollWidth + 'px';
+  //   this.style.height = flipCardBack.scrollHeight + 'px';
+  // });
 
-  flipCardInner.addEventListener('mouseout', function() {
-    this.style.width = flipCardFront.offsetWidth + 'px';
-    this.style.height = flipCardFront.offsetHeight + 'px';
-  });
+  // flipCardInner.addEventListener('mouseout', function() {
+  //   this.style.width = flipCardFront.offsetWidth + 'px';
+  //   this.style.height = flipCardFront.offsetHeight + 'px';
+  // });
 
   // document.addEventListener('DOMContentLoaded', function() {
   //   const flipCardInner = document.getElementById('flip-card-inner');
@@ -245,11 +245,26 @@ exclude: 'yes'
   //   flipCardInner.style.height = flipCardFront.scrollHeight + 'px';
   // };
 
-  document.addEventListener('DOMContentLoaded', function() {
-    var flipCard = document.querySelector('.flip-card-inner');
-    var frontHeight = document.querySelector('.flip-card-front').offsetHeight;
-    var backHeight = document.querySelector('.flip-card-back').offsetHeight;
+  // document.addEventListener('DOMContentLoaded', function() {
+  //   var flipCard = document.querySelector('.flip-card-inner');
+  //   var frontHeight = document.querySelector('.flip-card-front').offsetHeight;
+  //   var backHeight = document.querySelector('.flip-card-back').offsetHeight;
     
-    // Set the height of the flip-card-inner to the height of the taller side
-    flipCard.style.height = Math.max(frontHeight, backHeight) + 'px';
+  //   // Set the height of the flip-card-inner to the height of the taller side
+  //   flipCard.style.height = Math.max(frontHeight, backHeight) + 'px';
+  // });
+
+  var isFlipped = false;
+
+  function adjustPosition(flipped) {
+    isFlipped = flipped;
+    var flipCard = document.querySelector('.flip-card');
+    var front = document.querySelector('.flip-card-front');
+    var back = document.querySelector('.flip-card-back');
+
+    flipCard.style.height = (isFlipped ? back.offsetHeight : front.offsetHeight) + 'px';
+  }
+
+  window.addEventListener('load', function() {
+    adjustPosition(false);
   });

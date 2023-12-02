@@ -6,7 +6,7 @@ Take a look at what I have done.
 
 ### Work Experience
 
-<div class="flip-card">
+<div class="flip-card" onmouseenter="adjustPosition(true)" onmouseleave="adjustPosition(false)">
   <div class="flip-card-inner" id="flip-card-inner">
     <div class="flip-card-front">
       <table class="work">
@@ -38,7 +38,6 @@ Take a look at what I have done.
   </div>
 </div>
 
-<div style="clear:both;"></div>
 
 ### Project Experience
 
