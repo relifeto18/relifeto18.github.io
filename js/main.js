@@ -225,22 +225,31 @@ exclude: 'yes'
   //   adjustFollowingSection();
   // });
 
+  // document.addEventListener('DOMContentLoaded', function() {
+  //   const flipCard = document.querySelector('.flip-card'); // Selector for the flip card
+  //   const followingSection = document.querySelector('.following-section'); // Selector for the section following the flip card
+
+  //   function adjustFollowingSection() {
+  //       // We'll use the 'transitionend' event to adjust the margin after the flip animation completes
+  //       followingSection.style.marginTop = flipCard.offsetHeight + 'px';
+  //   }
+
+  //   // Add event listener to the flip card
+  //   flipCard.addEventListener('transitionend', adjustFollowingSection);
+
+  //   // Initial adjustment on page load
+  //   adjustFollowingSection();
+  // });
+
+  // window.onload = function() {
+  //   flipCardInner.style.height = flipCardFront.scrollHeight + 'px';
+  // };
+
   document.addEventListener('DOMContentLoaded', function() {
-    const flipCard = document.querySelector('.flip-card'); // Selector for the flip card
-    const followingSection = document.querySelector('.following-section'); // Selector for the section following the flip card
-
-    function adjustFollowingSection() {
-        // We'll use the 'transitionend' event to adjust the margin after the flip animation completes
-        followingSection.style.marginTop = flipCard.offsetHeight + 'px';
-    }
-
-    // Add event listener to the flip card
-    flipCard.addEventListener('transitionend', adjustFollowingSection);
-
-    // Initial adjustment on page load
-    adjustFollowingSection();
+    var flipCard = document.querySelector('.flip-card-inner');
+    var frontHeight = document.querySelector('.flip-card-front').offsetHeight;
+    var backHeight = document.querySelector('.flip-card-back').offsetHeight;
+    
+    // Set the height of the flip-card-inner to the height of the taller side
+    flipCard.style.height = Math.max(frontHeight, backHeight) + 'px';
   });
-
-  window.onload = function() {
-    flipCardInner.style.height = flipCardFront.scrollHeight + 'px';
-  };
