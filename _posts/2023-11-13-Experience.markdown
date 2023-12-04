@@ -57,15 +57,18 @@ Take a look at what I have done.
       </table>
     </div>
     <div class="flip-card-back-1">
-      <p class="p"><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
-                            Utilized DDP to implement a trajectory optimization algorithm for inverted double pendulum on a cart task. 
-      </p> 
-      <p class="p"><strong> Model Predictive Path Integral Control (MPPI) Implementation: </strong> 
-                            Implemented the MPPI algorithm to achieve the same task goal.
-      </p>
-      <p class="p"><strong> Cost Function Design: </strong> 
-                            Developed appropriate cost functions for both methods.
-      </p>
+      <table class="work">
+        <tr>
+          <td rowspan="3" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
+          <td class="p"><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
+                                Utilized DDP to implement a trajectory optimization algorithm for inverted double pendulum on a cart task. 
+          </td> 
+          <td class="p"><strong> Model Predictive Path Integral Control (MPPI) Implementation: </strong> 
+                                Implemented the MPPI algorithm to achieve the same task goal.
+          </td>
+          <td class="p"><strong> Cost Function Design: </strong> 
+                                Developed appropriate cost functions for both methods.
+          </td>
     </div>
   </div>
 </div>
