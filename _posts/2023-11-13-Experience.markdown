@@ -70,6 +70,38 @@ Take a look at what I have done.
   </div>
 </div>
 
-### Research Experience
+<div class="flip-card-2" onmouseenter="adjustPosition1(true)" onmouseleave="adjustPosition1(false)">
+  <div class="flip-card-inner-2" id="flip-card-inner-2">
+    <div class="flip-card-front-2">
+      <table class="work">
+        <tr>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
+          <td class="left"><strong> ROB 550: Robotic Systems Laboratory </strong></td>
+          <td class="left"><strong> Ann Arbor, MI </strong></td>
+        </tr>
+        <tr>
+          <td class="left"><em> Manipulation and Computer Vision / Mobile Robotics </em></td>
+          <td class="left"><em> September 2022 - December 2022 </em></td>
+        </tr>
+      </table>
+    </div>
+    <div class="flip-card-back-2">
+      <p class="p"><strong> Position Calibration: </strong> 
+                            Executed precise calibration and transformation from the depth camera coordinate to the world coordinate.
+      </p> 
+      <p class="p"><strong> State Machine Control: </strong> 
+                            Devised a sophisticated state machine to control the arm's movement in the workplace systematically.
+      </p>
+      <p class="p"><strong> Block Detector: </strong> 
+                            Detected blocks of different colors and determined object grabbing and placement positions.
+      </p>
+      <p class="p"><strong> Kinematic Algorithm: </strong> 
+                            Conducted thorough debugging of the inverse kinematic code, ensuring the arm's movement aligned with expectations.
+      </p>
+    </div>
+  </div>
+</div>
 
-Research 1
+
+
+### Research Experience
