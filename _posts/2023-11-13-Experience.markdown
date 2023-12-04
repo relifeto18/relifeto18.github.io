@@ -82,9 +82,9 @@ Take a look at what I have done.
         <tr>
           <td class="left"><em><p class="two"> Manipulation and Computer Vision </p> 
                               <a href="https://github.com/relifeto18/Armlab">[Link]</a>
-                              <p> Mobile Robotics </p>
+                              <p class="two"> Mobile Robotics </p>
                               <a href="https://github.com/relifeto18/Botlab">[Link]</a></em></td>
-          <td class="left"><em><p class="two"> September 2022 - November 2022 </p> <p> November 2022 - December 2022 </p></em></td>
+          <td class="left"><em><p> September 2022 - November 2022 </p> <p> November 2022 - December 2022 </p></em></td>
         </tr>
       </table>
     </div>
