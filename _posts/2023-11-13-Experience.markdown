@@ -70,7 +70,7 @@ Take a look at what I have done.
   </div>
 </div>
 
-<div class="flip-card-2" onmouseenter="adjustPosition1(true)" onmouseleave="adjustPosition1(false)">
+<div class="flip-card-2" onmouseenter="adjustPosition2(true)" onmouseleave="adjustPosition2(false)">
   <div class="flip-card-inner-2" id="flip-card-inner-2">
     <div class="flip-card-front-2">
       <table class="work">
