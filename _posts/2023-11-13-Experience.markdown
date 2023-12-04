@@ -69,6 +69,8 @@ Take a look at what I have done.
           <td class="p"><strong> Cost Function Design: </strong> 
                                 Developed appropriate cost functions for both methods.
           </td>
+        </tr>
+      </table>
     </div>
   </div>
 </div>
