@@ -215,7 +215,7 @@ Take a look at what I have done.
     <div class="flip-card-front-5">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/Fluent Robotics Lab.png" alt="UM logo" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="https://avatars.githubusercontent.com/u/140898687?s=200&v=4" alt="UM logo" style="width:80px;height:80px;"></td>
           <td class="left"><strong> Fluent Robotics Lab </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
