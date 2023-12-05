@@ -262,6 +262,7 @@ exclude: 'yes'
   var isFlipped = false;
   var isFlipped1 = false;
   var isFlipped2 = false;
+  var isFlipped3 = false;
 
   function adjustPosition(flipped) {
     isFlipped = flipped;
