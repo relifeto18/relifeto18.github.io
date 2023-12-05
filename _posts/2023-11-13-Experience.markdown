@@ -252,7 +252,7 @@ Take a look at what I have done.
     <div class="flip-card-front-6">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width:100px; height:80px"><img src="https://images.squarespace-cdn.com/content/v1/54c13d0ee4b0fa18586fb6c0/1422482207564-1WZSP2IEYEYVGT9IBYMO/ROAHMLABicon-01.png?format=1500w" alt="ROAHM Lab" style="width:80px;"></td>
+          <td rowspan="2" style="width:100px; height:80px;"><img src="https://images.squarespace-cdn.com/content/v1/54c13d0ee4b0fa18586fb6c0/1422482207564-1WZSP2IEYEYVGT9IBYMO/ROAHMLABicon-01.png?format=1500w" alt="ROAHM Lab" style="width:80px;"></td>
           <td class="left"><strong> ROAHM Lab </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
