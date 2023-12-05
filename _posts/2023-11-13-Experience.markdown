@@ -252,7 +252,7 @@ Take a look at what I have done.
     <div class="flip-card-front-6">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width:100px; height:80px;"><img src="https://images.squarespace-cdn.com/content/v1/54c13d0ee4b0fa18586fb6c0/1422482207564-1WZSP2IEYEYVGT9IBYMO/ROAHMLABicon-01.png?format=1500w" alt="ROAHM Lab" style="width:80px;"></td>
+          <td rowspan="2" style="width:100px; height:87px;"><img src="https://images.squarespace-cdn.com/content/v1/54c13d0ee4b0fa18586fb6c0/1422482207564-1WZSP2IEYEYVGT9IBYMO/ROAHMLABicon-01.png?format=1500w" alt="ROAHM Lab" style="width:80px;"></td>
           <td class="left"><strong> ROAHM Lab </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
@@ -294,23 +294,16 @@ Take a look at what I have done.
           <td class="right"><strong> Ningbo, China </strong></td>
         </tr>
         <tr>
-          <td class="left"><em> Electric Formula Student Project </em></td>
-          <td class="right"><em> November 2019 – April 2022 </em></td>
+          <td class="left"><em> Deep Learning for Magnetic Resonance Image Reconstruction </em></td>
+          <td class="right"><em> July 2020 – September 2020 </em></td>
         </tr>
       </table>
     </div>
     <div class="flip-card-back-7">
-      <table class="work">
-        <tr class="p">
-          <td style="width: 300px;"><img src="{{ site.baseurl }}/images/Data/Racing Car.png" alt="Electric Formula Racing Car" style="width:300px;"></td>
-          <td class="p">
-            <p class="p"><strong> Electrical System Design: </strong> 
-                                  Diagnosed and resolved issues in the existing electrical system, constructing a new and enhanced system for the vehicle. </p>
-            <p class="p"><strong> Battery Bank Development: </strong> 
-                                  Designed and built a new battery pack, significantly enhancing the vehicle's power. </p>
-          </td>
-        </tr>
-      </table>
+      <p class="p"><strong> Preprocessing and Reproduction: </strong> 
+                            Applied Convolutional Neural Network (CNN) to train a model, involving meticulous preparation of datasets, model construction, and hyperparameter adjustments. </p>
+      <p class="p"><strong> Image Processing: </strong> 
+                            Utilized U-Net for comprehensive CT and MRI image processing, encompassing tasks such as image preprocessing, feature extraction, classification, segmentation, and other related operations. </p>
     </div>
   </div>
 </div>
