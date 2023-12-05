@@ -87,7 +87,7 @@ Take a look at what I have done.
           <td class="left"><strong> Ann Arbor, MI </strong></td>
         </tr>
         <tr>
-          <td class="left"><em> Manipulation and Computer Vision </td>
+          <td class="left"><em> Manipulation and Computer Vision </em></td>
           <td class="left"><em> September 2022 - November 2022 </em></td>
         </tr>
         <tr>
