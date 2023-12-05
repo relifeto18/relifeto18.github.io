@@ -251,8 +251,8 @@ Take a look at what I have done.
   <div class="flip-card-inner-6" id="flip-card-inner-6">
     <div class="flip-card-front-6">
       <table class="work">
-        <tr style="height:80px;">
-          <td rowspan="2" style="width: 100px;"><img src="https://images.squarespace-cdn.com/content/v1/54c13d0ee4b0fa18586fb6c0/1422482207564-1WZSP2IEYEYVGT9IBYMO/ROAHMLABicon-01.png?format=1500w" alt="ROAHM Lab" style="width:80px;"></td>
+        <tr>
+          <td rowspan="2" style="width:100px; height:80px"><img src="https://images.squarespace-cdn.com/content/v1/54c13d0ee4b0fa18586fb6c0/1422482207564-1WZSP2IEYEYVGT9IBYMO/ROAHMLABicon-01.png?format=1500w" alt="ROAHM Lab" style="width:80px;"></td>
           <td class="left"><strong> ROAHM Lab </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
@@ -277,6 +277,37 @@ Take a look at what I have done.
                                   Upgraded the control system from conventional PID to the sophisticated Model Predictive Control (MPC) algorithm. </p>
             <p class="p"><strong> Collision Avoidance: </strong> 
                                   Introduced a competition-oriented training strategy using MPC agent as a rival vehicle. </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="flip-card-7" style="margin-bottom:0em;" onmouseenter="adjustPosition7(true)" onmouseleave="adjustPosition7(false)">
+  <div class="flip-card-inner-7" id="flip-card-inner-7">
+    <div class="flip-card-front-7">
+      <table class="work">
+        <tr>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UNNC.png" alt="UNNC logo" style="width:80px;"></td>
+          <td class="left"><strong> Magnetic Resonance Imaging Research Center </strong></td>
+          <td class="right"><strong> Ningbo, China </strong></td>
+        </tr>
+        <tr>
+          <td class="left"><em> Electric Formula Student Project </em></td>
+          <td class="right"><em> November 2019 – April 2022 </em></td>
+        </tr>
+      </table>
+    </div>
+    <div class="flip-card-back-7">
+      <table class="work">
+        <tr class="p">
+          <td style="width: 300px;"><img src="{{ site.baseurl }}/images/Data/Racing Car.png" alt="Electric Formula Racing Car" style="width:300px;"></td>
+          <td class="p">
+            <p class="p"><strong> Electrical System Design: </strong> 
+                                  Diagnosed and resolved issues in the existing electrical system, constructing a new and enhanced system for the vehicle. </p>
+            <p class="p"><strong> Battery Bank Development: </strong> 
+                                  Designed and built a new battery pack, significantly enhancing the vehicle's power. </p>
           </td>
         </tr>
       </table>
