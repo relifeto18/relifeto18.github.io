@@ -159,7 +159,7 @@ Take a look at what I have done.
     <div class="flip-card-back-3">
       <table class="work">
         <tr class="p">
-          <td style="width: 300px;"><img src="{{ site.baseurl }}/images/Data/robot.png" alt="robot model" style="width:300px;"></td>
+          <td style="width: 300px;"><img src="{{ site.baseurl }}/images/Data/robot.png" alt="Robot Model" style="width:300px;"></td>
           <td class="p">
             <p class="p"><strong> Environment Perception and Obstacle Avoidance: </strong> 
                                   Utilized Simultaneous Localization and Mapping (SLAM) with 2D Lidar for real-time map creation and obstacle avoidance. </p>
@@ -169,6 +169,37 @@ Take a look at what I have done.
                                   Employed the rapidly exploring random tree (RRT) algorithm for efficient path planning. </p>
             <p class="p"><strong> Object Pick-up: </strong> 
                                   Integrated a monocular camera for object positioning, with a 4-DOF manipulator controlled by an inverse kinematics (IK) algorithm for precise target grabbing. </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="flip-card-4" style="margin-bottom:0em;" onmouseenter="adjustPosition4(true)" onmouseleave="adjustPosition4(false)">
+  <div class="flip-card-inner-4" id="flip-card-inner-4">
+    <div class="flip-card-front-4">
+      <table class="work">
+        <tr>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UNNC.png" alt="UNNC logo" style="width:80px;height:80px;"></td>
+          <td class="left"><strong> UNNC Formula Student Racing Team </strong></td>
+          <td class="right"><strong> Ningbo, China </strong></td>
+        </tr>
+        <tr>
+          <td class="left"><em> Electric Formula Student Project </em></td>
+          <td class="right"><em> November 2019 – April 2022 </em></td>
+        </tr>
+      </table>
+    </div>
+    <div class="flip-card-back-4">
+      <table class="work">
+        <tr class="p">
+          <td style="width: 300px;"><img src="{{ site.baseurl }}/images/Data/Racing Car.png" alt="Electric Formula Racing Car" style="width:300px;"></td>
+          <td class="p">
+            <p class="p"><strong> Electrical System Design: </strong> 
+                                  Diagnosed and resolved issues in the existing electrical system, constructing a new and enhanced system for the vehicle. </p>
+            <p class="p"><strong> Battery Bank Development: </strong> 
+                                  Designed and built a new battery pack, significantly enhancing the vehicle's power. </p>
           </td>
         </tr>
       </table>
