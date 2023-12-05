@@ -267,7 +267,7 @@ Take a look at what I have done.
         <tr class="p">
           <td style="width: 300px;">
             <a href="https://www.roahmlab.com/">
-                <img src="{{ site.baseurl }}/images/Data/kinematic_mpc.gif" alt="kinematic_mpc" style="width:300px;">
+                <img src="{{ site.baseurl }}/images/Data/kinematic_mpc.gif" alt="kinematic mpc" style="width:300px;">
             </a>
           </td>
           <td class="p">
