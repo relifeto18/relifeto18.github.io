@@ -47,7 +47,7 @@ Take a look at what I have done.
       <table class="work">
         <tr>
           <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
-          <td class="left"><strong> ROB 498: Robot Learning for Planning and Control <a href="https://github.com/relifeto18/Differential_dynamic_programming_controller">[Link]</a></strong></td>
+          <td class="left"><strong> ROB 498: Robot Learning for Planning and Control </strong></td>
           <td class="left"><strong> Ann Arbor, MI </strong></td>
         </tr>
         <tr>
@@ -59,7 +59,11 @@ Take a look at what I have done.
     <div class="flip-card-back-1">
       <table class="work">
         <tr>
-          <td style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
+          <td style="width: 150px;">
+            <a href="https://github.com/relifeto18/Differential_dynamic_programming_controller">
+                <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif" alt="DDP" style="width:150px;height:150px;">
+            </a>
+          </td>
           <td class="p"><p><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
                                 Utilized DDP to implement a trajectory optimization algorithm for inverted double pendulum on a cart task. </p>
                         <p><strong> Model Predictive Path Integral Control (MPPI) Implementation: </strong> 
