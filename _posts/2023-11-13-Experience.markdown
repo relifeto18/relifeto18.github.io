@@ -61,7 +61,7 @@ Take a look at what I have done.
         <tr>
           <td style="width: 300px;">
             <a href="https://github.com/relifeto18/Differential_dynamic_programming_controller">
-                <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif?raw=true" alt="DDP" style="width:300px; height:300px;">
+                <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif?raw=true" alt="DDP" style="width:300px;">
             </a>
           </td>
           <td class="p"><p><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
@@ -101,7 +101,7 @@ Take a look at what I have done.
         <tr>
           <td style="width: 300px;">
             <a href="https://github.com/relifeto18/Armlab">
-                <img src="https://github.com/relifeto18/Armlab/blob/main/grasp%20block.gif?raw=true" alt="Armlab" style="width:300px; height:300px;">
+                <img src="https://github.com/relifeto18/Armlab/blob/main/grasp%20block.gif?raw=true" alt="Armlab" style="width:300px;">
             </a>
           </td>
           <td class="p"><p class="p"><strong> Position Calibration: </strong> 
@@ -117,7 +117,7 @@ Take a look at what I have done.
         <tr>
           <td style="width: 300px;">
             <a href="https://github.com/relifeto18/Botlab">
-                <img src="https://github.com/relifeto18/Botlab/blob/main/SLAM.gif?raw=true" alt="Botlab" style="width:300px; height:300px;">
+                <img src="https://github.com/relifeto18/Botlab/blob/main/SLAM.gif?raw=true" alt="Botlab" style="width:300px;">
             </a>
           </td>
           <td class="p"><p><strong> Real-time Positioning System: </strong> 
