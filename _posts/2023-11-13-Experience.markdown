@@ -209,3 +209,43 @@ Take a look at what I have done.
 
 
 ### Research Experience
+
+<div class="flip-card-5" style="margin-bottom:0em;" onmouseenter="adjustPosition5(true)" onmouseleave="adjustPosition5(false)">
+  <div class="flip-card-inner-5" id="flip-card-inner-5">
+    <div class="flip-card-front-5">
+      <table class="work">
+        <tr>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/Fluent Robotics Lab.png" alt="UM logo" style="width:80px;height:80px;"></td>
+          <td class="left"><strong> Fluent Robotics Lab </strong></td>
+          <td class="right"><strong> Ann Arbor, MI </strong></td>
+        </tr>
+        <tr>
+          <td class="left"><em> Human-Robot Handover Project using Stretch 2 </em></td>
+          <td class="right"><em> September 2023 – Present </em></td>
+        </tr>
+      </table>
+    </div>
+    <div class="flip-card-back-5">
+      <table class="work">
+        <tr class="p">
+          <td style="width: 300px;">
+            <a href="https://fluentrobotics.com/">
+                <img src="{{ site.baseurl }}/images/Data/moveit.gif" alt="DDP" style="width:300px;">
+            </a>
+          </td>
+          <td class="p">
+            <p class="p"><strong> Motion Planning: </strong> 
+                                  Specialized in motion planning, employing MoveIt! for robot arm trajectory and integrating Dijkstra's algorithm with Dynamic Window Approach (DWA) planner for base path planning. </p>
+            <p class="p"><strong> Platform Interface: </strong> 
+                                  Developed Python scripts for low-level hardware control and interfaced with complex simulation environments within the ROS package, achieving integration and manipulation of virtual environments for real robot testing and development. </p>
+            <p class="p"><strong> Module Integration: </strong> 
+                                  Integrated motion planning with SLAM and perception to form a complete autonomous robot system. </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+
+### Leadership Experience
