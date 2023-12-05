@@ -11,7 +11,7 @@ Take a look at what I have done.
     <div class="flip-card-front">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/ufair.png" alt="ufair logo" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/ufair.png" alt="ufair logo" style="width:80px;"></td>
           <td class="left"><strong> Ningbo XiaoCheng Information Technology Co., Ltd. </strong></td>
           <td class="right"><strong> Ningbo, China </strong></td>
         </tr>
@@ -51,7 +51,7 @@ Take a look at what I have done.
     <div class="flip-card-front-1">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;"></td>
           <td class="left"><strong> ROB 498: Robot Learning for Planning and Control </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
@@ -88,7 +88,7 @@ Take a look at what I have done.
     <div class="flip-card-front-2">
       <table class="work">
         <tr>
-          <td rowspan="3" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;height:80px;"></td>
+          <td rowspan="3" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;"></td>
           <td class="left"><strong> ROB 550: Robotic Systems Laboratory </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
@@ -146,7 +146,7 @@ Take a look at what I have done.
     <div class="flip-card-front-3">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UNNC.png" alt="UNNC logo" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UNNC.png" alt="UNNC logo" style="width:80px;"></td>
           <td class="left"><strong> Individual Final Year Project </strong></td>
           <td class="right"><strong> Ningbo, China </strong></td>
         </tr>
@@ -181,7 +181,7 @@ Take a look at what I have done.
     <div class="flip-card-front-4">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UNNC.png" alt="UNNC logo" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UNNC.png" alt="UNNC logo" style="width:80px;"></td>
           <td class="left"><strong> UNNC Formula Student Racing Team </strong></td>
           <td class="right"><strong> Ningbo, China </strong></td>
         </tr>
@@ -215,7 +215,7 @@ Take a look at what I have done.
     <div class="flip-card-front-5">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="https://avatars.githubusercontent.com/u/140898687?s=200&v=4" alt="Fluent Robotics Lab" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="https://avatars.githubusercontent.com/u/140898687?s=200&v=4" alt="Fluent Robotics Lab" style="width:80px;"></td>
           <td class="left"><strong> Fluent Robotics Lab </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
