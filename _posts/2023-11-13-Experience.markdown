@@ -64,11 +64,11 @@ Take a look at what I have done.
                 <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif?raw=true" alt="DDP" style="width:300px;">
             </a>
           </td>
-          <td class="p"><p><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
+          <td class="p"><p class="p"><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
                                 Utilized DDP to implement a trajectory optimization algorithm for inverted double pendulum on a cart task. </p>
-                        <p><strong> Model Predictive Path Integral Control (MPPI) Implementation: </strong> 
+                        <p class="p"><strong> Model Predictive Path Integral Control (MPPI) Implementation: </strong> 
                                 Implemented the MPPI algorithm to achieve the same task goal. </p>
-                        <p><strong> Cost Function Design: </strong> 
+                        <p class="p"><strong> Cost Function Design: </strong> 
                                 Developed appropriate cost functions for both methods. </p>
           </td>
         </tr>
@@ -104,13 +104,13 @@ Take a look at what I have done.
                 <img src="https://github.com/relifeto18/Armlab/blob/main/grasp%20block.gif?raw=true" alt="Armlab" style="width:300px;">
             </a>
           </td>
-          <td class="p"><p><strong> Position Calibration: </strong> 
+          <td class="p"><p class="p"><strong> Position Calibration: </strong> 
                                               Executed precise calibration and transformation from the depth camera coordinate to the world coordinate. </p> 
-                        <p><strong> State Machine Control: </strong> 
+                        <p class="p"><strong> State Machine Control: </strong> 
                                               Devised a sophisticated state machine to control the arm's movement in the workplace systematically. </p>
-                        <p><strong> Block Detector: </strong> 
+                        <p class="p"><strong> Block Detector: </strong> 
                                               Detected blocks of different colors and determined object grabbing and placement positions. </p>
-                        <p><strong> Kinematic Algorithm: </strong> 
+                        <p class="p"><strong> Kinematic Algorithm: </strong> 
                                               Conducted thorough debugging of the inverse kinematic code, ensuring the arm's movement aligned with expectations. </p>
           </td>
         </tr>
@@ -120,11 +120,11 @@ Take a look at what I have done.
                 <img src="https://github.com/relifeto18/Botlab/blob/main/SLAM.gif?raw=true" alt="Botlab" style="width:300px;">
             </a>
           </td>
-          <td class="p"><p><strong> Real-time Positioning System: </strong> 
+          <td class="p"><p class="p"><strong> Real-time Positioning System: </strong> 
                                     Utilized 2D Lidar to construct a real-time positioning system for the robot, incorporating a Monte Carlo (MCL) positioning algorithm based on odometer and laser ranging, allowing real-time location on known maps. </p>
-                        <p><strong> Path Planning: </strong> 
+                        <p class="p"><strong> Path Planning: </strong> 
                                     Developed A* algorithm enabling the robot to plan the optimal path within the environment. </p>
-                        <p><strong> Automatic Exploration and Obstacle Avoidance: </strong> 
+                        <p class="p"><strong> Automatic Exploration and Obstacle Avoidance: </strong> 
                                     Integrated a robotic system with automatic exploration capabilities in unknown areas and obstacle avoidance features for safe and efficient task completion. </p>
           </td>
         </tr>
