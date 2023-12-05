@@ -40,7 +40,7 @@ exclude: 'yes'
     adjustPosition(false); 
     adjustPosition1(false); 
     adjustPosition2(false); 
-    adjustPosition3(false); 
+    adjustPosition3(false);  
 
   })
 
