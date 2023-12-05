@@ -59,7 +59,7 @@ Take a look at what I have done.
     <div class="flip-card-back-1">
       <table class="work">
         <tr>
-          <td>
+          <td style="width: 300px;">
             <a href="https://github.com/relifeto18/Differential_dynamic_programming_controller">
                 <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif?raw=true" alt="DDP" style="width:300px; height:300px;">
             </a>
