@@ -97,18 +97,38 @@ Take a look at what I have done.
       </table>
     </div>
     <div class="flip-card-back-2">
-      <p class="p"><strong> Position Calibration: </strong> 
-                            Executed precise calibration and transformation from the depth camera coordinate to the world coordinate.
-      </p> 
-      <p class="p"><strong> State Machine Control: </strong> 
-                            Devised a sophisticated state machine to control the arm's movement in the workplace systematically.
-      </p>
-      <p class="p"><strong> Block Detector: </strong> 
-                            Detected blocks of different colors and determined object grabbing and placement positions.
-      </p>
-      <p class="p"><strong> Kinematic Algorithm: </strong> 
-                            Conducted thorough debugging of the inverse kinematic code, ensuring the arm's movement aligned with expectations.
-      </p>
+      <table class="work">
+        <tr>
+          <td style="width: 300px;">
+            <a href="https://github.com/relifeto18/Armlab">
+                <img src="https://github.com/relifeto18/Armlab/blob/main/grasp%20block.gif?raw=true" alt="Armlab" style="width:300px; height:300px;">
+            </a>
+          </td>
+          <td class="p"><p class="p"><strong> Position Calibration: </strong> 
+                                              Executed precise calibration and transformation from the depth camera coordinate to the world coordinate. </p> 
+                        <p class="p"><strong> State Machine Control: </strong> 
+                                              Devised a sophisticated state machine to control the arm's movement in the workplace systematically. </p>
+                        <p class="p"><strong> Block Detector: </strong> 
+                                              Detected blocks of different colors and determined object grabbing and placement positions. </p>
+                        <p class="p"><strong> Kinematic Algorithm: </strong> 
+                                              Conducted thorough debugging of the inverse kinematic code, ensuring the arm's movement aligned with expectations. </p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 300px;">
+            <a href="https://github.com/relifeto18/Botlab">
+                <img src="https://github.com/relifeto18/Botlab/blob/main/SLAM.gif?raw=true" alt="Botlab" style="width:300px; height:300px;">
+            </a>
+          </td>
+          <td class="p"><p><strong> Real-time Positioning System: </strong> 
+                                    Utilized 2D Lidar to construct a real-time positioning system for the robot, incorporating a Monte Carlo (MCL) positioning algorithm based on odometer and laser ranging, allowing real-time location on known maps. </p>
+                        <p><strong> Path Planning: </strong> 
+                                    Developed A* algorithm enabling the robot to plan the optimal path within the environment. </p>
+                        <p><strong> Automatic Exploration and Obstacle Avoidance: </strong> 
+                                    Integrated a robotic system with automatic exploration capabilities in unknown areas and obstacle avoidance features for safe and efficient task completion. </p>
+          </td>
+        </tr>
+      </table>
     </div>
   </div>
 </div>
