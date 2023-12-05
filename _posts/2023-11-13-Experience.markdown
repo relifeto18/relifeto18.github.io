@@ -104,13 +104,13 @@ Take a look at what I have done.
                 <img src="https://github.com/relifeto18/Armlab/blob/main/grasp%20block.gif?raw=true" alt="Armlab" style="width:300px;">
             </a>
           </td>
-          <td class="p"><p class="p"><strong> Position Calibration: </strong> 
+          <td class="p"><p><strong> Position Calibration: </strong> 
                                               Executed precise calibration and transformation from the depth camera coordinate to the world coordinate. </p> 
-                        <p class="p"><strong> State Machine Control: </strong> 
+                        <p><strong> State Machine Control: </strong> 
                                               Devised a sophisticated state machine to control the arm's movement in the workplace systematically. </p>
-                        <p class="p"><strong> Block Detector: </strong> 
+                        <p><strong> Block Detector: </strong> 
                                               Detected blocks of different colors and determined object grabbing and placement positions. </p>
-                        <p class="p"><strong> Kinematic Algorithm: </strong> 
+                        <p><strong> Kinematic Algorithm: </strong> 
                                               Conducted thorough debugging of the inverse kinematic code, ensuring the arm's movement aligned with expectations. </p>
           </td>
         </tr>
