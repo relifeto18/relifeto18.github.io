@@ -215,7 +215,7 @@ Take a look at what I have done.
     <div class="flip-card-front-5">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="https://avatars.githubusercontent.com/u/140898687?s=200&v=4" alt="UM logo" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="https://avatars.githubusercontent.com/u/140898687?s=200&v=4" alt="Fluent Robotics Lab" style="width:80px;height:80px;"></td>
           <td class="left"><strong> Fluent Robotics Lab </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
@@ -230,7 +230,7 @@ Take a look at what I have done.
         <tr class="p">
           <td style="width: 300px;">
             <a href="https://fluentrobotics.com/">
-                <img src="{{ site.baseurl }}/images/Data/moveit.gif" alt="DDP" style="width:300px;">
+                <img src="{{ site.baseurl }}/images/Data/moveit.gif" alt="moveit" style="width:300px;">
             </a>
           </td>
           <td class="p">
@@ -240,6 +240,43 @@ Take a look at what I have done.
                                   Developed Python scripts for low-level hardware control and interfaced with complex simulation environments within the ROS package, achieving integration and manipulation of virtual environments for real robot testing and development. </p>
             <p class="p"><strong> Module Integration: </strong> 
                                   Integrated motion planning with SLAM and perception to form a complete autonomous robot system. </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="flip-card-6" style="margin-bottom:0em;" onmouseenter="adjustPosition6(true)" onmouseleave="adjustPosition6(false)">
+  <div class="flip-card-inner-6" id="flip-card-inner-6">
+    <div class="flip-card-front-6">
+      <table class="work">
+        <tr>
+          <td rowspan="2" style="width: 100px;"><img src="https://images.squarespace-cdn.com/content/v1/54c13d0ee4b0fa18586fb6c0/1422482207564-1WZSP2IEYEYVGT9IBYMO/ROAHMLABicon-01.png?format=1500w" alt="ROAHM Lab" style="width:80px;height:80px;"></td>
+          <td class="left"><strong> ROAHM Lab </strong></td>
+          <td class="right"><strong> Ann Arbor, MI </strong></td>
+        </tr>
+        <tr>
+          <td class="left"><em> Learning-based Algorithm on 1/10 Scale RC Rover </em></td>
+          <td class="right"><em> June 2023 – August 2023 </em></td>
+        </tr>
+      </table>
+    </div>
+    <div class="flip-card-back-6">
+      <table class="work">
+        <tr class="p">
+          <td style="width: 300px;">
+            <a href="https://www.roahmlab.com/">
+                <img src="{{ site.baseurl }}/images/Data/kinematic_mpc.gif" alt="kinematic_mpc" style="width:300px;">
+            </a>
+          </td>
+          <td class="p">
+            <p class="p"><strong> Simulation and Track Design: </strong> 
+                                  Developed a precise simulation environment tailored for a custom racetrack. </p>
+            <p class="p"><strong> Advanced Control System Implementation: </strong> 
+                                  Upgraded the control system from conventional PID to the sophisticated Model Predictive Control (MPC) algorithm. </p>
+            <p class="p"><strong> Collision Avoidance: </strong> 
+                                  Introduced a competition-oriented training strategy using MPC agent as a rival vehicle. </p>
           </td>
         </tr>
       </table>
