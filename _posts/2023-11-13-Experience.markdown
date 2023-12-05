@@ -22,15 +22,23 @@ Take a look at what I have done.
       </table>
     </div>
     <div class="flip-card-back">
-      <p class="p"><strong> Web Page Development: </strong> 
-                            Worked on projects using HTML and JavaScript to develop corporate web pages and ensure that 
-                            the web pages are dynamic <a href="https://ufair.net.cn/">[Link]</a>. </p> 
-      <p class="p"><strong> Database Development: </strong> 
-                            Designed and incorporated the database systems into the corporate WeChat applet, facilitating 
-                            efficient information collection and storage. </p>
-      <p class="p"><strong> Program Maintenance: </strong> 
-                            Contributed to the development of document files and designs for another corporate WeChat applet, 
-                            actively participating in technical feasibility assessments and design optimization processes. </p>
+      <table class="work">
+        <tr class="p">
+          <td style="width: 300px;">
+            <a href="https://ufair.net.cn/">
+                <img src="{{ site.baseurl }}/images/Data/web.png" alt="ufair web" style="width:300px;">
+            </a>
+          </td>
+          <td class="p">
+            <p class="p"><strong> Web Page Development: </strong> 
+                                  Worked on projects using HTML and JavaScript to develop corporate web pages and ensure that the web pages are dynamic. </p> 
+            <p class="p"><strong> Database Development: </strong> 
+                                  Designed and incorporated the database systems into the corporate WeChat applet, facilitating efficient information collection and storage. </p>
+            <p class="p"><strong> Program Maintenance: </strong> 
+                                  Contributed to the development of document files and designs for another corporate WeChat applet, actively participating in technical feasibility assessments and design optimization processes. </p>
+          </td>
+        </tr>
+      </table>
     </div>
   </div>
 </div>
@@ -61,12 +69,13 @@ Take a look at what I have done.
                 <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif?raw=true" alt="DDP" style="width:300px;">
             </a>
           </td>
-          <td class="p"><p class="p"><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
-                                Utilized DDP to implement a trajectory optimization algorithm for inverted double pendulum on a cart task. </p>
-                        <p class="p"><strong> Model Predictive Path Integral Control (MPPI) Implementation: </strong> 
-                                Implemented the MPPI algorithm to achieve the same task goal. </p>
-                        <p class="p"><strong> Cost Function Design: </strong> 
-                                Developed appropriate cost functions for both methods. </p>
+          <td class="p">
+            <p class="p"><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
+                                  Utilized DDP to implement a trajectory optimization algorithm for inverted double pendulum on a cart task. </p>
+            <p class="p"><strong> Model Predictive Path Integral Control (MPPI) Implementation: </strong> 
+                                  Implemented the MPPI algorithm to achieve the same task goal. </p>
+            <p class="p"><strong> Cost Function Design: </strong> 
+                                  Developed appropriate cost functions for both methods. </p>
           </td>
         </tr>
       </table>
@@ -101,14 +110,15 @@ Take a look at what I have done.
                 <img src="https://github.com/relifeto18/Armlab/blob/main/grasp%20block.gif?raw=true" alt="Armlab" style="width:300px;">
             </a>
           </td>
-          <td class="p"><p class="p"><strong> Position Calibration: </strong> 
-                                              Executed precise calibration and transformation from the depth camera coordinate to the world coordinate. </p> 
-                        <p class="p"><strong> State Machine Control: </strong> 
-                                              Devised a sophisticated state machine to control the arm's movement in the workplace systematically. </p>
-                        <p class="p"><strong> Block Detector: </strong> 
-                                              Detected blocks of different colors and determined object grabbing and placement positions. </p>
-                        <p class="p"><strong> Kinematic Algorithm: </strong> 
-                                              Conducted thorough debugging of the inverse kinematic code, ensuring the arm's movement aligned with expectations. </p>
+          <td class="p">
+            <p class="p"><strong> Position Calibration: </strong> 
+                                  Executed precise calibration and transformation from the depth camera coordinate to the world coordinate. </p> 
+            <p class="p"><strong> State Machine Control: </strong> 
+                                  Devised a sophisticated state machine to control the arm's movement in the workplace systematically. </p>
+            <p class="p"><strong> Block Detector: </strong> 
+                                  Detected blocks of different colors and determined object grabbing and placement positions. </p>
+            <p class="p"><strong> Kinematic Algorithm: </strong> 
+                                  Conducted thorough debugging of the inverse kinematic code, ensuring the arm's movement aligned with expectations. </p>
           </td>
         </tr>
         <tr class="p">
@@ -117,12 +127,13 @@ Take a look at what I have done.
                 <img src="https://github.com/relifeto18/Botlab/blob/main/SLAM.gif?raw=true" alt="Botlab" style="width:300px;">
             </a>
           </td>
-          <td class="p"><p class="p"><strong> Real-time Positioning System: </strong> 
-                                    Utilized 2D Lidar to construct a real-time positioning system for the robot, incorporating a Monte Carlo (MCL) positioning algorithm based on odometer and laser ranging, allowing real-time location on known maps. </p>
-                        <p class="p"><strong> Path Planning: </strong> 
-                                    Developed A* algorithm enabling the robot to plan the optimal path within the environment. </p>
-                        <p class="p"><strong> Automatic Exploration and Obstacle Avoidance: </strong> 
-                                    Integrated a robotic system with automatic exploration capabilities in unknown areas and obstacle avoidance features for safe and efficient task completion. </p>
+          <td class="p">
+            <p class="p"><strong> Real-time Positioning System: </strong> 
+                                  Utilized 2D Lidar to construct a real-time positioning system for the robot, incorporating a Monte Carlo (MCL) positioning algorithm based on odometer and laser ranging, allowing real-time location on known maps. </p>
+            <p class="p"><strong> Path Planning: </strong> 
+                                  Developed A* algorithm enabling the robot to plan the optimal path within the environment. </p>
+            <p class="p"><strong> Automatic Exploration and Obstacle Avoidance: </strong> 
+                                  Integrated a robotic system with automatic exploration capabilities in unknown areas and obstacle avoidance features for safe and efficient task completion. </p>
           </td>
         </tr>
       </table>
@@ -149,14 +160,15 @@ Take a look at what I have done.
       <table class="work">
         <tr class="p">
           <td style="width: 300px;"><img src="{{ site.baseurl }}/images/Data/robot.png" alt="robot model" style="width:300px;"></td>
-          <td class="p"><p class="p"><strong> Environment Perception and Obstacle Avoidance: </strong> 
-                                              Utilized Simultaneous Localization and Mapping (SLAM) with 2D Lidar for real-time map creation and obstacle avoidance. </p>
-                        <p class="p"><strong> Positioning and Navigation: </strong> 
-                                              Implemented the adaptive Monte Carlo positioning (AMCL) algorithm for autonomous navigation. </p>
-                        <p class="p"><strong> Path Planning: </strong> 
-                                              Employed the rapidly exploring random tree (RRT) algorithm for efficient path planning. </p>
-                        <p class="p"><strong> Object Pick-up: </strong> 
-                                              Integrated a monocular camera for object positioning, with a 4-DOF manipulator controlled by an inverse kinematics (IK) algorithm for precise target grabbing. </p>
+          <td class="p">
+            <p class="p"><strong> Environment Perception and Obstacle Avoidance: </strong> 
+                                  Utilized Simultaneous Localization and Mapping (SLAM) with 2D Lidar for real-time map creation and obstacle avoidance. </p>
+            <p class="p"><strong> Positioning and Navigation: </strong> 
+                                  Implemented the adaptive Monte Carlo positioning (AMCL) algorithm for autonomous navigation. </p>
+            <p class="p"><strong> Path Planning: </strong> 
+                                  Employed the rapidly exploring random tree (RRT) algorithm for efficient path planning. </p>
+            <p class="p"><strong> Object Pick-up: </strong> 
+                                  Integrated a monocular camera for object positioning, with a 4-DOF manipulator controlled by an inverse kinematics (IK) algorithm for precise target grabbing. </p>
           </td>
         </tr>
       </table>
