@@ -59,9 +59,9 @@ Take a look at what I have done.
     <div class="flip-card-back-1">
       <table class="work">
         <tr>
-          <td style="width: 300px;">
+          <td style="width: 350px;">
             <a href="https://github.com/relifeto18/Differential_dynamic_programming_controller">
-                <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif?raw=true" alt="DDP" style="width:300px; height:300px;">
+                <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif?raw=true" alt="DDP" style="width:350px; height:350px;">
             </a>
           </td>
           <td class="p"><p><strong> Differential Dynamic Programming (DDP) Implementation: </strong> 
