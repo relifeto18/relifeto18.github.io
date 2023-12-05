@@ -317,3 +317,41 @@
   padding: 20px;
 //   white-space: nowrap; /* Prevents text wrapping */
 }
+
+.flip-card-8 {
+  background-color: transparent;
+  perspective: 100000px;
+  margin: 5px; /* Adjusted margin */
+}
+
+.flip-card-inner-8 {
+  position: relative;
+  width: 100%;
+  transition: transform 0.2s, height 0.2s, width 0.2s;
+  transform-style: preserve-3d;
+  box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card-8:hover .flip-card-inner-8 {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front-8, .flip-card-back-8 {
+  position: absolute;
+  width: 100%;
+  // -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front-8 {
+  background-color: #ffffff00;
+  color: black;
+}
+
+.flip-card-back-8 {
+  background-color: rgb(17, 139, 240);
+  color: white;
+  transform: rotateY(180deg);
+  padding: 20px;
+//   white-space: nowrap; /* Prevents text wrapping */
+}

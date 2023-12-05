@@ -215,7 +215,7 @@ Take a look at what I have done.
     <div class="flip-card-front-5">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="https://avatars.githubusercontent.com/u/140898687?s=200&v=4" alt="Fluent Robotics Lab" style="width:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/Fluent Robotics Lab.png" alt="Fluent Robotics Lab" style="width:80px;"></td>
           <td class="left"><strong> Fluent Robotics Lab </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
@@ -252,7 +252,7 @@ Take a look at what I have done.
     <div class="flip-card-front-6">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width:100px; height:87px;"><img src="https://images.squarespace-cdn.com/content/v1/54c13d0ee4b0fa18586fb6c0/1422482207564-1WZSP2IEYEYVGT9IBYMO/ROAHMLABicon-01.png?format=1500w" alt="ROAHM Lab" style="width:80px;"></td>
+          <td rowspan="2" style="width:100px; height:87px;"><img src="{{ site.baseurl }}/images/Data/ROAHM Lab.png" alt="ROAHM Lab" style="width:80px;"></td>
           <td class="left"><strong> ROAHM Lab </strong></td>
           <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
@@ -310,3 +310,29 @@ Take a look at what I have done.
 
 
 ### Leadership Experience
+
+<div class="flip-card-8" style="margin-bottom:0em;" onmouseenter="adjustPosition8(true)" onmouseleave="adjustPosition8(false)">
+  <div class="flip-card-inner-8" id="flip-card-inner-8">
+    <div class="flip-card-front-8">
+      <table class="work">
+        <tr>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/AIESEC.png" alt="AIESEC logo" style="width:80px;"></td>
+          <td class="left"><strong> AIESEC </strong></td>
+          <td class="right"><strong> Kathmandu, Nepal </strong></td>
+        </tr>
+        <tr>
+          <td class="left"><em> International Volunteer </em></td>
+          <td class="right"><em> June 2019 – July 2019 </em></td>
+        </tr>
+      </table>
+    </div>
+    <div class="flip-card-back-8">
+      <p class="p"><strong> Leadership Development: </strong> 
+                            Engaged in a one-month international volunteering program in Nepal. </p>
+      <p class="p"><strong> Teaching Content: </strong> 
+                            Educated local students in Chinese and English, covering general areas of science and technology. </p>
+      <p class="p"><strong> Cultural Impact: </strong> 
+                            Cultivated cross-cultural communication and leadership skills and adaptability within a foreign environment, positively impacting both the local community and personal development. </p>
+    </div>
+  </div>
+</div>
