@@ -46,7 +46,7 @@ Take a look at what I have done.
     <div class="flip-card-front-1">
       <table class="work">
         <tr>
-          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;height:80px;"></td>
           <td class="left"><strong> ROB 498: Robot Learning for Planning and Control </strong></td>
           <td class="left"><strong> Ann Arbor, MI </strong></td>
         </tr>
@@ -82,17 +82,17 @@ Take a look at what I have done.
     <div class="flip-card-front-2">
       <table class="work">
         <tr>
-          <td rowspan="3" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="ufair logo" style="width:80px;height:80px;"></td>
+          <td rowspan="3" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;height:80px;"></td>
           <td class="left"><strong> ROB 550: Robotic Systems Laboratory </strong></td>
           <td class="left"><strong> Ann Arbor, MI </strong></td>
         </tr>
         <tr>
-          <td class="left"><em><p class="two"> Manipulation and Computer Vision </p>
-          <td class="left"><em><p> September 2022 - November 2022 </p></em></td>
+          <td class="left"><em> Manipulation and Computer Vision </td>
+          <td class="left"><em> September 2022 - November 2022 </em></td>
         </tr>
         <tr>
-          <td class="left"><em><p class="two"> Mobile Robotics </p></em></td>
-          <td class="left"><em> <p> November 2022 - December 2022 </p></em></td>
+          <td class="left"><em> Mobile Robotics </em></td>
+          <td class="left"><em> November 2022 - December 2022 </em></td>
         </tr>
       </table>
     </div>
