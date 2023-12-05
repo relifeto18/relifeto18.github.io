@@ -58,7 +58,7 @@ Take a look at what I have done.
     </div>
     <div class="flip-card-back-1">
       <table class="work">
-        <tr>
+        <tr class="p">
           <td style="width: 300px;">
             <a href="https://github.com/relifeto18/Differential_dynamic_programming_controller">
                 <img src="https://github.com/relifeto18/Differential_dynamic_programming_controller/blob/main/idp_ddp.gif?raw=true" alt="DDP" style="width:300px;">
@@ -98,7 +98,7 @@ Take a look at what I have done.
     </div>
     <div class="flip-card-back-2">
       <table class="work">
-        <tr>
+        <tr class="p">
           <td style="width: 300px;">
             <a href="https://github.com/relifeto18/Armlab">
                 <img src="https://github.com/relifeto18/Armlab/blob/main/grasp%20block.gif?raw=true" alt="Armlab" style="width:300px;">
@@ -114,7 +114,7 @@ Take a look at what I have done.
                                               Conducted thorough debugging of the inverse kinematic code, ensuring the arm's movement aligned with expectations. </p>
           </td>
         </tr>
-        <tr>
+        <tr class="p">
           <td style="width: 300px;">
             <a href="https://github.com/relifeto18/Botlab">
                 <img src="https://github.com/relifeto18/Botlab/blob/main/SLAM.gif?raw=true" alt="Botlab" style="width:300px;">
