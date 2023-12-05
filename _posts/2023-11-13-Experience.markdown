@@ -46,7 +46,7 @@ Take a look at what I have done.
 
 ### Project Experience
 
-<div class="flip-card-1" onmouseenter="adjustPosition1(true)" onmouseleave="adjustPosition1(false)">
+<div class="flip-card-1" style="margin-bottom:0em;" onmouseenter="adjustPosition1(true)" onmouseleave="adjustPosition1(false)">
   <div class="flip-card-inner-1" id="flip-card-inner-1">
     <div class="flip-card-front-1">
       <table class="work">
@@ -83,7 +83,7 @@ Take a look at what I have done.
   </div>
 </div>
 
-<div class="flip-card-2" onmouseenter="adjustPosition2(true)" onmouseleave="adjustPosition2(false)">
+<div class="flip-card-2" style="margin-bottom:0em;" onmouseenter="adjustPosition2(true)" onmouseleave="adjustPosition2(false)">
   <div class="flip-card-inner-2" id="flip-card-inner-2">
     <div class="flip-card-front-2">
       <table class="work">
@@ -141,7 +141,7 @@ Take a look at what I have done.
   </div>
 </div>
 
-<div class="flip-card-3" onmouseenter="adjustPosition3(true)" onmouseleave="adjustPosition3(false)">
+<div class="flip-card-3" style="margin-bottom:0em;" onmouseenter="adjustPosition3(true)" onmouseleave="adjustPosition3(false)">
   <div class="flip-card-inner-3" id="flip-card-inner-3">
     <div class="flip-card-front-3">
       <table class="work">
