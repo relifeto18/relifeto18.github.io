@@ -13,11 +13,11 @@ Take a look at what I have done.
         <tr>
           <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/ufair.png" alt="ufair logo" style="width:80px;height:80px;"></td>
           <td class="left"><strong> Ningbo XiaoCheng Information Technology Co., Ltd. </strong></td>
-          <td class="left"><strong> Ningbo, China </strong></td>
+          <td class="right"><strong> Ningbo, China </strong></td>
         </tr>
         <tr>
           <td class="left"><em> Intern in the Product Development Department </em></td>
-          <td class="left"><em> April 2019 – September 2021 </em></td>
+          <td class="right"><em> April 2019 – September 2021 </em></td>
         </tr>
       </table>
     </div>
@@ -48,11 +48,11 @@ Take a look at what I have done.
         <tr>
           <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;height:80px;"></td>
           <td class="left"><strong> ROB 498: Robot Learning for Planning and Control </strong></td>
-          <td class="left"><strong> Ann Arbor, MI </strong></td>
+          <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
         <tr>
           <td class="left"><em> Trajectory Optimization of Inverted Double Pendulum on a Cart Problem </em></td>
-          <td class="left"><em> April 2023 </em></td>
+          <td class="right"><em> April 2023 </em></td>
         </tr>
       </table>
     </div>
@@ -84,15 +84,15 @@ Take a look at what I have done.
         <tr>
           <td rowspan="3" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;height:80px;"></td>
           <td class="left"><strong> ROB 550: Robotic Systems Laboratory </strong></td>
-          <td class="left"><strong> Ann Arbor, MI </strong></td>
+          <td class="right"><strong> Ann Arbor, MI </strong></td>
         </tr>
         <tr>
           <td class="left"><em> Manipulation and Computer Vision </em></td>
-          <td class="left"><em> September 2022 - November 2022 </em></td>
+          <td class="right"><em> September 2022 - November 2022 </em></td>
         </tr>
         <tr>
           <td class="left"><em> Mobile Robotics </em></td>
-          <td class="left"><em> November 2022 - December 2022 </em></td>
+          <td class="right"><em> November 2022 - December 2022 </em></td>
         </tr>
       </table>
     </div>
