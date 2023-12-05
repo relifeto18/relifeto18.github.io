@@ -40,6 +40,7 @@ exclude: 'yes'
     adjustPosition(false); 
     adjustPosition1(false); 
     adjustPosition2(false); 
+    adjustPosition3(false); 
 
   })
 
@@ -287,6 +288,15 @@ exclude: 'yes'
     var back2 = document.querySelector('.flip-card-back-2');
 
     flipCard2.style.height = (isFlipped2 ? back2.offsetHeight : front2.offsetHeight) + 'px';
+  }
+
+  function adjustPosition3(flipped) {
+    isFlipped3 = flipped;
+    var flipCard3 = document.querySelector('.flip-card-3');
+    var front3 = document.querySelector('.flip-card-front-3');
+    var back3 = document.querySelector('.flip-card-back-3');
+
+    flipCard3.style.height = (isFlipped3 ? back3.offsetHeight : front3.offsetHeight) + 'px';
   }
 
   // $(document).ready(function() {
