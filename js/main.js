@@ -38,6 +38,7 @@ exclude: 'yes'
     })
 
     adjustPosition(false); 
+    adjustPosition0(false); 
     adjustPosition1(false); 
     adjustPosition2(false); 
     adjustPosition3(false);  
@@ -265,6 +266,7 @@ exclude: 'yes'
   // });
 
   var isFlipped = false;
+  var isFlipped0 = false;
   var isFlipped1 = false;
   var isFlipped2 = false;
   var isFlipped3 = false;
@@ -282,6 +284,16 @@ exclude: 'yes'
 
     flipCard.style.height = (isFlipped ? back.offsetHeight : front.offsetHeight) + 'px';
   }
+
+  function adjustPosition0(flipped) {
+    isFlipped0 = flipped;
+    var flipCard0 = document.querySelector('.flip-card-0');
+    var front0 = document.querySelector('.flip-card-front-0');
+    var back0 = document.querySelector('.flip-card-back-0');
+
+    flipCard0.style.height = (isFlipped0 ? back0.offsetHeight : front0.offsetHeight) + 'px';
+  }
+
 
   function adjustPosition1(flipped) {
     isFlipped1 = flipped;

@@ -46,6 +46,43 @@ Take a look at what I have done.
 
 ### Project Experience
 
+<div class="flip-card-0" style="margin-bottom:0em;" onmouseenter="adjustPosition0(true)" onmouseleave="adjustPosition0(false)">
+  <div class="flip-card-inner-0" id="flip-card-inner-0">
+    <div class="flip-card-front-0">
+      <table class="work">
+        <tr>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;"></td>
+          <td class="left"><strong> ROB 422: Introduction to Algorithmic Robotics </strong></td>
+          <td class="right"><strong> Ann Arbor, MI </strong></td>
+        </tr>
+        <tr>
+          <td class="left"><em> Localization using Kalman Filter and Particle Filter </em></td>
+          <td class="right"><em> December 2023 </em></td>
+        </tr>
+      </table>
+    </div>
+    <div class="flip-card-back-0">
+      <table class="work">
+        <tr class="p">
+          <td style="width: 300px;">
+            <a href="https://github.com/relifeto18/ROB422_FinalProj_Localization">
+                <img src="https://github.com/relifeto18/ROB422_FinalProj_Localization/blob/master/output/PF.gif?raw=true" alt="DDP" style="width:300px;">
+            </a>
+          </td>
+          <td class="p">
+            <p class="p"><strong> Simulation Environment: </strong> 
+                                  Built simulation environment in PyBullet with a customized map and a PR2 robot. </p>
+            <p class="p"><strong> Kalman Filter Implementation: </strong> 
+                                  Implemented Kalman Filter to achieve localization by continuously updating its estimation of a system's state using a combination of motion model and incoming sensor data.  </p>
+            <p class="p"><strong> Particle Filter Implementation: </strong> 
+                                  Implemented Particle Filter to achieve localization by using particles to represent system states, updating and resampling them with new sensor data to identify the most probable state.  </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
 <div class="flip-card-1" style="margin-bottom:0em;" onmouseenter="adjustPosition1(true)" onmouseleave="adjustPosition1(false)">
   <div class="flip-card-inner-1" id="flip-card-inner-1">
     <div class="flip-card-front-1">
