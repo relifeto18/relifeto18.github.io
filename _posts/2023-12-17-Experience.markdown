@@ -66,16 +66,51 @@ Take a look at what I have done.
         <tr class="p">
           <td style="width: 300px;">
             <a href="https://github.com/relifeto18/ROB422_FinalProj_Localization">
-                <img src="https://github.com/relifeto18/ROB422_FinalProj_Localization/blob/master/output/PF.gif?raw=true" alt="DDP" style="width:300px;">
+                <img src="https://github.com/relifeto18/ROB422_FinalProj_Localization/blob/master/output/PF.gif?raw=true" alt="Localization" style="width:300px;">
             </a>
           </td>
           <td class="p">
             <p class="p"><strong> Simulation Environment: </strong> 
                                   Built simulation environment in PyBullet with a customized map and a PR2 robot. </p>
             <p class="p"><strong> Kalman Filter Implementation: </strong> 
-                                  Implemented Kalman Filter to achieve localization by continuously updating its estimation of a system's state using a combination of motion model and incoming sensor data.  </p>
+                                  Implemented Kalman Filter to achieve localization by continuously updating its estimation of a system's state using a combination of motion model and incoming sensor data. </p>
             <p class="p"><strong> Particle Filter Implementation: </strong> 
-                                  Implemented Particle Filter to achieve localization by using particles to represent system states, updating and resampling them with new sensor data to identify the most probable state.  </p>
+                                  Implemented Particle Filter to achieve localization by using particles to represent system states, updating and resampling them with new sensor data to identify the most probable state. </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="flip-card-9" style="margin-bottom:0em;" onmouseenter="adjustPosition0(true)" onmouseleave="adjustPosition0(false)">
+  <div class="flip-card-inner-9" id="flip-card-inner-9">
+    <div class="flip-card-front-9">
+      <table class="work">
+        <tr>
+          <td rowspan="2" style="width: 100px;"><img src="{{ site.baseurl }}/images/Data/UM.png" alt="UM logo" style="width:80px;"></td>
+          <td class="left"><strong> ROB 535: Self-Driving Cars: Perception and Control </strong></td>
+          <td class="right"><strong> Ann Arbor, MI </strong></td>
+        </tr>
+        <tr>
+          <td class="left"><em> Monocular 3D Object Detection </em></td>
+          <td class="right"><em> December 2023 </em></td>
+        </tr>
+      </table>
+    </div>
+    <div class="flip-card-back-9">
+      <table class="work">
+        <tr class="p">
+          <td style="width: 300px;">
+            <a href="https://github.com/relifeto18/MonoCon_ROB535">
+                <img src="https://github.com/relifeto18/MonoCon_ROB535/blob/main/exps/3D%20Bounding%20Box.gif?raw=true" alt="MonoCon" style="width:300px;">
+            </a>
+          </td>
+          <td class="p">
+            <p class="p"><strong> Network Structure Revision: </strong>
+                                  Revised and tested MonoCon on the KITTI benchmark, specifically for car detection in various scenarios and evaluated the performance based on 3D bounding box predictions. </p>
+            <p class="p"><strong> Dataset and Training: </strong>
+                                  Data augmentation techniques were used to enhance the model's robustness. Extensive experimentation was conducted to optimize hyperparameters, ensuring improved model performance. </p>
           </td>
         </tr>
       </table>
