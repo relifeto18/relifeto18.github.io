@@ -8,7 +8,7 @@ Currently, I'm working on the Human-Robot Handover project, especially focusing 
 
 Before this, I graduated with a First Class Bachelor's degree in Electrical and Electronic Engineering at University of Nottingham, Ningbo, China ([UNNC][UNNC]).
 
-My interest is piqued by the **perception, planning, and control** aspects of robotics. In particular, I am drawn to the arenas of **autonomous driving** and **mobile robots**. Aside from my academic pursuits, I am an avid photographer (check my Gallery!) and anime enthusiast. 
+My interest is piqued by the **perception, planning, and control** aspects of robotics. In particular, I am drawn to the areas of **autonomous driving** and **mobile robots** with **Human-Robot Interaction (HRI)**. Aside from my academic pursuits, I am a passionate photographer (check my [Gallery][Gallery]!) and anime enthusiast. 
 
 
 ### Education
@@ -76,6 +76,14 @@ CN113329535B
   <tbody>
     <tr>
       <td>
+        Dean's Scholarship
+      </td>
+      <td>
+        &emsp; December 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
         China National Scholarship
       </td>
       <td>
@@ -108,3 +116,4 @@ CN113329535B
 [Lab]: https://fluentrobotics.com/
 [UNNC]: https://www.nottingham.edu.cn/en/
 [PDF]: https://doi.org/10.1145/3507524.3507545
+[Gallery]: https://relifeto18.github.io/2023/Gallery/
