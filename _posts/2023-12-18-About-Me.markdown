@@ -1,6 +1,6 @@
 ---
 title:  "About Me"
-date:   2023-12-18 22:15:31
+date:   2023-12-18 09:15:31
 ---
 I am pursuing Master's degree in [Robotics Department][Robotics] at [University of Michigan][Umich]. 
 
