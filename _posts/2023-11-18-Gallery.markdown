@@ -310,119 +310,127 @@ date:   2023-11-18 20:18:38
 
 <div class="container2">
   <div class="mySlides2">
-    <div class="numbertext">1 / 29</div>
+    <div class="numbertext">1 / 31</div>
       <img src="https://i.imgur.com/jF6zaeE.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">2 / 29</div>
+    <div class="numbertext">2 / 31</div>
       <img src="https://i.imgur.com/nlSN05V.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">3 / 29</div>
+    <div class="numbertext">3 / 31</div>
       <img src="https://i.imgur.com/Cm9NMpv.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">4 / 29</div>
+    <div class="numbertext">4 / 31</div>
       <img src="https://i.imgur.com/Q2uXDcG.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">5 / 29</div>
+    <div class="numbertext">5 / 31</div>
       <img src="https://i.imgur.com/JNqgojY.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">6 / 29</div>
+    <div class="numbertext">6 / 31</div>
       <img src="https://i.imgur.com/6VA0Y4o.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">7 / 29</div>
+    <div class="numbertext">7 / 31</div>
       <img src="https://i.imgur.com/b7mlEG1.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">8 / 29</div>
+    <div class="numbertext">8 / 31</div>
       <img src="https://i.imgur.com/NN27nb7.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">9 / 29</div>
+    <div class="numbertext">9 / 31</div>
       <img src="https://i.imgur.com/v81gAE8.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">10 / 29</div>
+    <div class="numbertext">10 / 31</div>
       <img src="https://i.imgur.com/jOuTauv.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">11 / 29</div>
+    <div class="numbertext">11 / 31</div>
       <img src="https://i.imgur.com/7w9Ob8a.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">12 / 29</div>
+    <div class="numbertext">12 / 31</div>
       <img src="https://i.imgur.com/mHl5HLR.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">13 / 29</div>
+    <div class="numbertext">13 / 31</div>
       <img src="https://i.imgur.com/3WVILEh.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">14 / 29</div>
+    <div class="numbertext">14 / 31</div>
+      <img src="https://i.imgur.com/XfFcB1c.jpg" style="width:100%">
+  </div>
+  <div class="mySlides2">
+    <div class="numbertext">15 / 31</div>
+      <img src="https://i.imgur.com/9Zs2JZ5.jpg" style="width:100%">
+  </div>
+  <div class="mySlides2">
+    <div class="numbertext">16 / 31</div>
       <img src="https://i.imgur.com/dQOlbkX.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">15 / 29</div>
+    <div class="numbertext">17 / 31</div>
       <img src="https://i.imgur.com/l7APMMY.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">16 / 29</div>
+    <div class="numbertext">18 / 31</div>
       <img src="https://i.imgur.com/rZwFBZp.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">17 / 29</div>
+    <div class="numbertext">19 / 31</div>
       <img src="https://i.imgur.com/0mta0r6.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">18 / 29</div>
+    <div class="numbertext">20 / 31</div>
       <img src="https://i.imgur.com/uaGCBsT.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">19 / 29</div>
+    <div class="numbertext">21 / 31</div>
       <img src="https://i.imgur.com/hjCHHzv.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">20 / 29</div>
+    <div class="numbertext">22 / 31</div>
       <img src="https://i.imgur.com/LKzUdR8.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">21 / 29</div>
+    <div class="numbertext">23 / 31</div>
       <img src="https://i.imgur.com/QxyEeOm.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">22 / 29</div>
+    <div class="numbertext">24 / 31</div>
       <img src="https://i.imgur.com/rP1kHWb.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">23 / 29</div>
+    <div class="numbertext">25 / 31</div>
       <img src="https://i.imgur.com/8cNyL3z.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">24 / 29</div>
+    <div class="numbertext">26 / 31</div>
       <img src="https://i.imgur.com/5GOhMsl.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">25 / 29</div>
+    <div class="numbertext">27 / 31</div>
       <img src="https://i.imgur.com/saGd94o.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">26 / 29</div>
+    <div class="numbertext">28 / 31</div>
       <img src="https://i.imgur.com/vAA6Tgh.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">27 / 29</div>
+    <div class="numbertext">29 / 31</div>
       <img src="https://i.imgur.com/cYciILH.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">28 / 29</div>
+    <div class="numbertext">30 / 31</div>
       <img src="https://i.imgur.com/I69rTKG.jpg" style="width:100%">
   </div>
   <div class="mySlides2">
-    <div class="numbertext">29 / 29</div>
+    <div class="numbertext">31 / 31</div>
       <img src="https://i.imgur.com/Qv857hX.jpg" style="width:100%">
   </div>
 
@@ -450,22 +458,24 @@ date:   2023-11-18 20:18:38
       <img class="demo2 cursor2" src="https://i.imgur.com/7w9Ob8a.jpg" style="width:20%" onclick="currentSlide2(11)" alt="Grand Prismatic Spring">
       <img class="demo2 cursor2" src="https://i.imgur.com/mHl5HLR.jpg" style="width:20%" onclick="currentSlide2(12)" alt="Morning Glory Pool">
       <img class="demo2 cursor2" src="https://i.imgur.com/3WVILEh.jpg" style="width:20%" onclick="currentSlide2(13)" alt="Oxbow Bend">
-      <img class="demo2 cursor2" src="https://i.imgur.com/dQOlbkX.jpg" style="width:20%" onclick="currentSlide2(14)" alt="Frozen Tree">
-      <img class="demo2 cursor2" src="https://i.imgur.com/l7APMMY.jpg" style="width:20%" onclick="currentSlide2(15)" alt="Crashed Car">
-      <img class="demo2 cursor2" src="https://i.imgur.com/rZwFBZp.jpg" style="width:20%" onclick="currentSlide2(16)" alt="New York Night Scene">
-      <img class="demo2 cursor2" src="https://i.imgur.com/0mta0r6.jpg" style="width:20%" onclick="currentSlide2(17)" alt="Mackinac Bridge">
-      <img class="demo2 cursor2" src="https://i.imgur.com/uaGCBsT.jpg" style="width:20%" onclick="currentSlide2(18)" alt="White Cliffs">
-      <img class="demo2 cursor2" src="https://i.imgur.com/hjCHHzv.jpg" style="width:20%" onclick="currentSlide2(19)" alt="White Cliffs Lighthouse">
-      <img class="demo2 cursor2" src="https://i.imgur.com/LKzUdR8.jpg" style="width:20%" onclick="currentSlide2(20)" alt="Tower Bridger">
-      <img class="demo2 cursor2" src="https://i.imgur.com/QxyEeOm.jpg" style="width:20%" onclick="currentSlide2(21)" alt="Bass Rock">
-      <img class="demo2 cursor2" src="https://i.imgur.com/rP1kHWb.jpg" style="width:20%" onclick="currentSlide2(22)" alt="Edinburgh Castle">
-      <img class="demo2 cursor2" src="https://i.imgur.com/8cNyL3z.jpg" style="width:20%" onclick="currentSlide2(23)" alt="Buddha Stupa">
-      <img class="demo2 cursor2" src="https://i.imgur.com/5GOhMsl.jpg" style="width:20%" onclick="currentSlide2(24)" alt="Emerald Lake">
-      <img class="demo2 cursor2" src="https://i.imgur.com/saGd94o.jpg" style="width:20%" onclick="currentSlide2(25)" alt="Emerald Lake">
-      <img class="demo2 cursor2" src="https://i.imgur.com/vAA6Tgh.jpg" style="width:20%" onclick="currentSlide2(26)" alt="Double Rainbow">
-      <img class="demo2 cursor2" src="https://i.imgur.com/cYciILH.jpg" style="width:20%" onclick="currentSlide2(27)" alt="Offshore Wind Turbines">
-      <img class="demo2 cursor2" src="https://i.imgur.com/I69rTKG.jpg" style="width:20%" onclick="currentSlide2(28)" alt="Zhangye Danxia Landform">
-      <img class="demo2 cursor2" src="https://i.imgur.com/Qv857hX.jpg" style="width:20%" onclick="currentSlide2(29)" alt="Dunhuang Yardang">
+      <img class="demo2 cursor2" src="https://i.imgur.com/XfFcB1c.jpg" style="width:20%" onclick="currentSlide2(14)" alt="Castner Glacier Ice Cave">
+      <img class="demo2 cursor2" src="https://i.imgur.com/9Zs2JZ5.jpg" style="width:20%" onclick="currentSlide2(15)" alt="Matanuska Glacier">
+      <img class="demo2 cursor2" src="https://i.imgur.com/dQOlbkX.jpg" style="width:20%" onclick="currentSlide2(16)" alt="Frozen Tree">
+      <img class="demo2 cursor2" src="https://i.imgur.com/l7APMMY.jpg" style="width:20%" onclick="currentSlide2(17)" alt="Crashed Car">
+      <img class="demo2 cursor2" src="https://i.imgur.com/rZwFBZp.jpg" style="width:20%" onclick="currentSlide2(18)" alt="New York Night Scene">
+      <img class="demo2 cursor2" src="https://i.imgur.com/0mta0r6.jpg" style="width:20%" onclick="currentSlide2(19)" alt="Mackinac Bridge">
+      <img class="demo2 cursor2" src="https://i.imgur.com/uaGCBsT.jpg" style="width:20%" onclick="currentSlide2(20)" alt="White Cliffs">
+      <img class="demo2 cursor2" src="https://i.imgur.com/hjCHHzv.jpg" style="width:20%" onclick="currentSlide2(21)" alt="White Cliffs Lighthouse">
+      <img class="demo2 cursor2" src="https://i.imgur.com/LKzUdR8.jpg" style="width:20%" onclick="currentSlide2(22)" alt="Tower Bridger">
+      <img class="demo2 cursor2" src="https://i.imgur.com/QxyEeOm.jpg" style="width:20%" onclick="currentSlide2(23)" alt="Bass Rock">
+      <img class="demo2 cursor2" src="https://i.imgur.com/rP1kHWb.jpg" style="width:20%" onclick="currentSlide2(24)" alt="Edinburgh Castle">
+      <img class="demo2 cursor2" src="https://i.imgur.com/8cNyL3z.jpg" style="width:20%" onclick="currentSlide2(25)" alt="Buddha Stupa">
+      <img class="demo2 cursor2" src="https://i.imgur.com/5GOhMsl.jpg" style="width:20%" onclick="currentSlide2(26)" alt="Emerald Lake">
+      <img class="demo2 cursor2" src="https://i.imgur.com/saGd94o.jpg" style="width:20%" onclick="currentSlide2(27)" alt="Emerald Lake">
+      <img class="demo2 cursor2" src="https://i.imgur.com/vAA6Tgh.jpg" style="width:20%" onclick="currentSlide2(28)" alt="Double Rainbow">
+      <img class="demo2 cursor2" src="https://i.imgur.com/cYciILH.jpg" style="width:20%" onclick="currentSlide2(29)" alt="Offshore Wind Turbines">
+      <img class="demo2 cursor2" src="https://i.imgur.com/I69rTKG.jpg" style="width:20%" onclick="currentSlide2(30)" alt="Zhangye Danxia Landform">
+      <img class="demo2 cursor2" src="https://i.imgur.com/Qv857hX.jpg" style="width:20%" onclick="currentSlide2(31)" alt="Dunhuang Yardang">
     </div>
   </div>
 </div>
