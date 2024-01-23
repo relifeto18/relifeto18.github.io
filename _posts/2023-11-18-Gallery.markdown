@@ -95,139 +95,151 @@ date:   2023-11-18 20:18:38
 
 <div class="container1">
   <div class="mySlides1">
-    <div class="numbertext">1 / 34</div>
+    <div class="numbertext">1 / 37</div>
       <img src="https://i.imgur.com/zU7HAva.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">2 / 34</div>
+    <div class="numbertext">2 / 37</div>
       <img src="https://i.imgur.com/HEMZTtp.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">3 / 34</div>
+    <div class="numbertext">3 / 37</div>
       <img src="https://i.imgur.com/3UgsUXL.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">4 / 34</div>
+    <div class="numbertext">4 / 37</div>
       <img src="https://i.imgur.com/hDodfbC.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">5 / 34</div>
+    <div class="numbertext">5 / 37</div>
       <img src="https://i.imgur.com/6xIaPN9.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">6 / 34</div>
+    <div class="numbertext">6 / 37</div>
       <img src="https://i.imgur.com/Pr1LzQz.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">7 / 34</div>
+    <div class="numbertext">7 / 37</div>
       <img src="https://i.imgur.com/6HSAK7k.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">8 / 34</div>
+    <div class="numbertext">8 / 37</div>
+      <img src="https://i.imgur.com/RPdS6RD.jpg" style="width:100%">
+  </div>
+  <div class="mySlides1">
+    <div class="numbertext">9 / 37</div>
+      <img src="https://i.imgur.com/AoQCYrf.jpg" style="width:100%">
+  </div>
+  <div class="mySlides1">
+    <div class="numbertext">10 / 37</div>
+      <img src="https://i.imgur.com/MnvUxBv.jpg" style="width:100%">
+  </div>
+  <div class="mySlides1">
+    <div class="numbertext">11 / 37</div>
       <img src="https://i.imgur.com/PgfuMlT.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">9 / 34</div>
+    <div class="numbertext">12 / 37</div>
       <img src="https://i.imgur.com/gZzeDSJ.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">10 / 34</div>
+    <div class="numbertext">13 / 37</div>
       <img src="https://i.imgur.com/vce8ucz.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">11 / 34</div>
+    <div class="numbertext">14 / 37</div>
       <img src="https://i.imgur.com/AXmGXQ9.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">12 / 34</div>
+    <div class="numbertext">15 / 37</div>
       <img src="https://i.imgur.com/yp8XYXj.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">13 / 34</div>
+    <div class="numbertext">16 / 37</div>
       <img src="https://i.imgur.com/vmfW8Ig.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">14 / 34</div>
+    <div class="numbertext">17 / 37</div>
       <img src="https://i.imgur.com/y6yoONK.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">15 / 34</div>
+    <div class="numbertext">18 / 37</div>
       <img src="https://i.imgur.com/p5WKxOV.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">16 / 34</div>
+    <div class="numbertext">19 / 37</div>
       <img src="https://i.imgur.com/OQGqljB.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">17 / 34</div>
+    <div class="numbertext">20 / 37</div>
       <img src="https://i.imgur.com/wNiwH6T.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">18 / 34</div>
+    <div class="numbertext">21 / 37</div>
       <img src="https://i.imgur.com/YrA8TjD.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">19 / 34</div>
+    <div class="numbertext">22 / 37</div>
       <img src="https://i.imgur.com/wKGOT0b.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">20 / 34</div>
+    <div class="numbertext">23 / 37</div>
       <img src="https://i.imgur.com/hEHwkde.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">21 / 34</div>
+    <div class="numbertext">24 / 37</div>
       <img src="https://i.imgur.com/TqwtOWV.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">22 / 34</div>
+    <div class="numbertext">25 / 37</div>
       <img src="https://i.imgur.com/5dzORwA.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">23 / 34</div>
+    <div class="numbertext">26 / 37</div>
       <img src="https://i.imgur.com/FjgnXby.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">24 / 34</div>
+    <div class="numbertext">27 / 37</div>
       <img src="https://i.imgur.com/kzAE37L.png" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">25 / 34</div>
+    <div class="numbertext">28 / 37</div>
       <img src="https://i.imgur.com/lIHHHcy.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">26 / 34</div>
+    <div class="numbertext">29 / 37</div>
       <img src="https://i.imgur.com/2eay8eN.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">27 / 34</div>
+    <div class="numbertext">30 / 37</div>
       <img src="https://i.imgur.com/4OCN06R.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">28 / 34</div>
+    <div class="numbertext">31 / 37</div>
       <img src="https://i.imgur.com/5NRRbkd.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">29 / 34</div>
+    <div class="numbertext">32 / 37</div>
       <img src="https://i.imgur.com/zBymxhA.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">30 / 34</div>
+    <div class="numbertext">33 / 37</div>
       <img src="https://i.imgur.com/GaQq0rG.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">31 / 34</div>
+    <div class="numbertext">34 / 37</div>
       <img src="https://i.imgur.com/BpHSnkP.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">32 / 34</div>
+    <div class="numbertext">35 / 37</div>
       <img src="https://i.imgur.com/AoMLwcw.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">33 / 34</div>
+    <div class="numbertext">36 / 37</div>
       <img src="https://i.imgur.com/x5eiPQb.jpg" style="width:100%">
   </div>
   <div class="mySlides1">
-    <div class="numbertext">34 / 34</div>
+    <div class="numbertext">37 / 37</div>
       <img src="https://i.imgur.com/tfNzEP1.jpg" style="width:100%">
   </div>
 
@@ -249,33 +261,36 @@ date:   2023-11-18 20:18:38
       <img class="demo1 cursor1" src="https://i.imgur.com/6xIaPN9.jpg" style="width:20%" onclick="currentSlide1(5)" alt="Elk on Travertine Terraces">
       <img class="demo1 cursor1" src="https://i.imgur.com/Pr1LzQz.jpg" style="width:20%" onclick="currentSlide1(6)" alt="Horses">
       <img class="demo1 cursor1" src="https://i.imgur.com/6HSAK7k.jpg" style="width:20%" onclick="currentSlide1(7)" alt="White-Tailed Deer">
-      <img class="demo1 cursor1" src="https://i.imgur.com/PgfuMlT.jpg" style="width:20%" onclick="currentSlide1(8)" alt="Goat">
-      <img class="demo1 cursor1" src="https://i.imgur.com/gZzeDSJ.jpg" style="width:20%" onclick="currentSlide1(9)" alt="Sheep">
-      <img class="demo1 cursor1" src="https://i.imgur.com/vce8ucz.jpg" style="width:20%" onclick="currentSlide1(10)" alt="Rhesus Monkey">
-      <img class="demo1 cursor1" src="https://i.imgur.com/AXmGXQ9.jpg" style="width:20%" onclick="currentSlide1(11)" alt="American Goldfinch">
-      <img class="demo1 cursor1" src="https://i.imgur.com/yp8XYXj.jpg" style="width:20%" onclick="currentSlide1(12)" alt="American Magpie">
-      <img class="demo1 cursor1" src="https://i.imgur.com/vmfW8Ig.jpg" style="width:20%" onclick="currentSlide1(13)" alt="Spruce Grouse">
-      <img class="demo1 cursor1" src="https://i.imgur.com/y6yoONK.jpg" style="width:20%" onclick="currentSlide1(14)" alt="Atlantic Puffin">
-      <img class="demo1 cursor1" src="https://i.imgur.com/p5WKxOV.jpg" style="width:20%" onclick="currentSlide1(15)" alt="Northern Gannet">
-      <img class="demo1 cursor1" src="https://i.imgur.com/OQGqljB.jpg" style="width:20%" onclick="currentSlide1(16)" alt="Herring Gull and Seal">
-      <img class="demo1 cursor1" src="https://i.imgur.com/wNiwH6T.jpg" style="width:20%" onclick="currentSlide1(17)" alt="Common Eider">
-      <img class="demo1 cursor1" src="https://i.imgur.com/YrA8TjD.jpg" style="width:20%" onclick="currentSlide1(18)" alt="Black-Naped Tern">
-      <img class="demo1 cursor1" src="https://i.imgur.com/wKGOT0b.jpg" style="width:20%" onclick="currentSlide1(19)" alt="Mallard">
-      <img class="demo1 cursor1" src="https://i.imgur.com/hEHwkde.jpg" style="width:20%" onclick="currentSlide1(20)" alt="Woodpecker">
-      <img class="demo1 cursor1" src="https://i.imgur.com/TqwtOWV.jpg" style="width:20%" onclick="currentSlide1(21)" alt="American Robin">
-      <img class="demo1 cursor1" src="https://i.imgur.com/5dzORwA.jpg" style="width:20%" onclick="currentSlide1(22)" alt="Great Blue Heron">
-      <img class="demo1 cursor1" src="https://i.imgur.com/FjgnXby.jpg" style="width:20%" onclick="currentSlide1(23)" alt="Great Egret">
-      <img class="demo1 cursor1" src="https://i.imgur.com/kzAE37L.png" style="width:20%" onclick="currentSlide1(24)" alt="Night Heron">
-      <img class="demo1 cursor1" src="https://i.imgur.com/lIHHHcy.jpg" style="width:20%" onclick="currentSlide1(25)" alt="Canada Goose">
-      <img class="demo1 cursor1" src="https://i.imgur.com/2eay8eN.jpg" style="width:20%" onclick="currentSlide1(26)" alt="Mantis">
-      <img class="demo1 cursor1" src="https://i.imgur.com/4OCN06R.jpg" style="width:20%" onclick="currentSlide1(27)" alt="Eastern Cottontail">
-      <img class="demo1 cursor1" src="https://i.imgur.com/5NRRbkd.jpg" style="width:20%" onclick="currentSlide1(28)" alt="Eastern Chipmunk">
-      <img class="demo1 cursor1" src="https://i.imgur.com/zBymxhA.jpg" style="width:20%" onclick="currentSlide1(29)" alt="Fox Squirrel">
-      <img class="demo1 cursor1" src="https://i.imgur.com/GaQq0rG.jpg" style="width:20%" onclick="currentSlide1(30)" alt="Gecko">
-      <img class="demo1 cursor1" src="https://i.imgur.com/BpHSnkP.jpg" style="width:20%" onclick="currentSlide1(31)" alt="Cat">
-      <img class="demo1 cursor1" src="https://i.imgur.com/AoMLwcw.jpg" style="width:20%" onclick="currentSlide1(32)" alt="Common Bluebottle">
-      <img class="demo1 cursor1" src="https://i.imgur.com/x5eiPQb.jpg" style="width:20%" onclick="currentSlide1(33)" alt="Common Mormon">
-      <img class="demo1 cursor1" src="https://i.imgur.com/tfNzEP1.jpg" style="width:20%" onclick="currentSlide1(34)" alt="Fireflies">
+      <img class="demo1 cursor1" src="https://i.imgur.com/RPdS6RD.jpg" style="width:20%" onclick="currentSlide1(8)" alt="Moose">
+      <img class="demo1 cursor1" src="https://i.imgur.com/AoQCYrf.jpg" style="width:20%" onclick="currentSlide1(9)" alt="Caribou">
+      <img class="demo1 cursor1" src="https://i.imgur.com/MnvUxBv.jpg" style="width:20%" onclick="currentSlide1(10)" alt="Willow Ptarmigan">
+      <img class="demo1 cursor1" src="https://i.imgur.com/PgfuMlT.jpg" style="width:20%" onclick="currentSlide1(11)" alt="Goat">
+      <img class="demo1 cursor1" src="https://i.imgur.com/gZzeDSJ.jpg" style="width:20%" onclick="currentSlide1(12)" alt="Sheep">
+      <img class="demo1 cursor1" src="https://i.imgur.com/vce8ucz.jpg" style="width:20%" onclick="currentSlide1(13)" alt="Rhesus Monkey">
+      <img class="demo1 cursor1" src="https://i.imgur.com/AXmGXQ9.jpg" style="width:20%" onclick="currentSlide1(14)" alt="American Goldfinch">
+      <img class="demo1 cursor1" src="https://i.imgur.com/yp8XYXj.jpg" style="width:20%" onclick="currentSlide1(15)" alt="American Magpie">
+      <img class="demo1 cursor1" src="https://i.imgur.com/vmfW8Ig.jpg" style="width:20%" onclick="currentSlide1(16)" alt="Spruce Grouse">
+      <img class="demo1 cursor1" src="https://i.imgur.com/y6yoONK.jpg" style="width:20%" onclick="currentSlide1(17)" alt="Atlantic Puffin">
+      <img class="demo1 cursor1" src="https://i.imgur.com/p5WKxOV.jpg" style="width:20%" onclick="currentSlide1(18)" alt="Northern Gannet">
+      <img class="demo1 cursor1" src="https://i.imgur.com/OQGqljB.jpg" style="width:20%" onclick="currentSlide1(19)" alt="Herring Gull and Seal">
+      <img class="demo1 cursor1" src="https://i.imgur.com/wNiwH6T.jpg" style="width:20%" onclick="currentSlide1(20)" alt="Common Eider">
+      <img class="demo1 cursor1" src="https://i.imgur.com/YrA8TjD.jpg" style="width:20%" onclick="currentSlide1(21)" alt="Black-Naped Tern">
+      <img class="demo1 cursor1" src="https://i.imgur.com/wKGOT0b.jpg" style="width:20%" onclick="currentSlide1(22)" alt="Mallard">
+      <img class="demo1 cursor1" src="https://i.imgur.com/hEHwkde.jpg" style="width:20%" onclick="currentSlide1(23)" alt="Woodpecker">
+      <img class="demo1 cursor1" src="https://i.imgur.com/TqwtOWV.jpg" style="width:20%" onclick="currentSlide1(24)" alt="American Robin">
+      <img class="demo1 cursor1" src="https://i.imgur.com/5dzORwA.jpg" style="width:20%" onclick="currentSlide1(25)" alt="Great Blue Heron">
+      <img class="demo1 cursor1" src="https://i.imgur.com/FjgnXby.jpg" style="width:20%" onclick="currentSlide1(26)" alt="Great Egret">
+      <img class="demo1 cursor1" src="https://i.imgur.com/kzAE37L.png" style="width:20%" onclick="currentSlide1(27)" alt="Night Heron">
+      <img class="demo1 cursor1" src="https://i.imgur.com/lIHHHcy.jpg" style="width:20%" onclick="currentSlide1(28)" alt="Canada Goose">
+      <img class="demo1 cursor1" src="https://i.imgur.com/2eay8eN.jpg" style="width:20%" onclick="currentSlide1(29)" alt="Mantis">
+      <img class="demo1 cursor1" src="https://i.imgur.com/4OCN06R.jpg" style="width:20%" onclick="currentSlide1(30)" alt="Eastern Cottontail">
+      <img class="demo1 cursor1" src="https://i.imgur.com/5NRRbkd.jpg" style="width:20%" onclick="currentSlide1(31)" alt="Eastern Chipmunk">
+      <img class="demo1 cursor1" src="https://i.imgur.com/zBymxhA.jpg" style="width:20%" onclick="currentSlide1(32)" alt="Fox Squirrel">
+      <img class="demo1 cursor1" src="https://i.imgur.com/GaQq0rG.jpg" style="width:20%" onclick="currentSlide1(33)" alt="Gecko">
+      <img class="demo1 cursor1" src="https://i.imgur.com/BpHSnkP.jpg" style="width:20%" onclick="currentSlide1(34)" alt="Cat">
+      <img class="demo1 cursor1" src="https://i.imgur.com/AoMLwcw.jpg" style="width:20%" onclick="currentSlide1(35)" alt="Common Bluebottle">
+      <img class="demo1 cursor1" src="https://i.imgur.com/x5eiPQb.jpg" style="width:20%" onclick="currentSlide1(36)" alt="Common Mormon">
+      <img class="demo1 cursor1" src="https://i.imgur.com/tfNzEP1.jpg" style="width:20%" onclick="currentSlide1(37)" alt="Fireflies">
     </div>
   </div>
 </div>
