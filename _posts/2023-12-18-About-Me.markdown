@@ -1,14 +1,13 @@
 ---
 title:  "About Me"
-date:   2023-12-18 09:15:31
+date:   2024-09-01 14:15:31
 ---
-I am pursuing Master's degree in [Robotics Department][Robotics] at [University of Michigan][Umich]. 
+I am a first-year Ph.D. student studying Robotics in the [Kahlert School of Computing][KSOC] at the [University of Utah][Utah]. I'm a Research Assistant working in the Utah Learning Lab for Manipulation Autonomy ([LL4MA Lab][ll4ma]), where I'm advised by Professor [Tucker Hermans][Tucker]. My research focuses on Robot Learning for Manipulation. 
 
-Currently, I'm working on the Human-Robot Handover project, especially focusing on the Motion Planning direction using [Stretch 2][Stretch] under the supervision of Professor [Christoforos Mavrogiannis][Chris] in the [Fluent Robotics Lab][Lab].
-
+Previously, I earned my Master's degree in [Robotics][Robotics] from the [University of Michigan][Umich], where I was advised by Professor [Christoforos Mavrogiannis][Chris] in the [Fluent Robotics Lab][Lab].
 Before this, I graduated with a First Class Bachelor's degree in Electrical and Electronic Engineering at University of Nottingham, Ningbo, China ([UNNC][UNNC]).
 
-My interest is piqued by the **perception, planning, and control** aspects of robotics. In particular, I am drawn to the areas of **autonomous driving** and **mobile robots** with **Human-Robot Interaction (HRI)**. Aside from my academic pursuits, I am a passionate photographer (check my [Gallery][Gallery]!) and anime enthusiast. 
+Aside from my academic pursuits, I am a passionate photographer (check my [Gallery][Gallery]!) and anime enthusiast. 
 
 
 ### Education
@@ -20,7 +19,7 @@ My interest is piqued by the **perception, planning, and control** aspects of ro
         <img src="{{ site.baseurl }}/images/Data/UM.png" width="50" height="50"/>
       </td>
       <td><strong> University of Michigan - Ann Arbor </strong></td>
-      <td> &emsp; September 2022 – May 2024 </td>
+      <td> &emsp; August 2022 – May 2024 </td>
     </tr>
     <tr>
       <td colspan="2"> Master of Science in Robotics </td>
@@ -109,6 +108,10 @@ CN113329535B
   </tbody>
 </table>
 
+[KSOC]: https://www.cs.utah.edu/
+[Utah]: https://www.utah.edu/
+[ll4ma]: https://robot-learning.cs.utah.edu/home
+[Tucker]: https://robot-learning.cs.utah.edu/thermans
 [Robotics]: https://robotics.umich.edu/
 [Umich]: https://umich.edu/
 [Stretch]: https://hello-robot.com/stretch-2
